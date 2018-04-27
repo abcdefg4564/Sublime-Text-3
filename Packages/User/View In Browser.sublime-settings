@@ -1,0 +1,14 @@
+[
+{
+        "keys": ["ctrl+alt+c"],
+        "command": "viewinbrowser",
+        "args": {
+                    "paths": [],
+                    "type": "testing",
+                    "browser": ""
+                }
+    }
+]
+
+
+

@@ -1,0 +1,41 @@
+<snippet>
+	<description>html</description>
+	<content><![CDATA[!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="AK">
+  <meta name="Keywords" content="web,前端，IT">
+  <meta name="Description" content="">
+  <meta http-equiv="Cache-Control" content="max-age-0">  
+  <meta http-equiv="refresh" content="555">
+  <link rel="icon" href="/mylogo32.ico">
+  <link rel="stylesheet" href="/common.css">
+  <script type="text/javascript" src="/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="/AK.js"></script>
+  </script>
+<!-- http://www.huangyun.xyz -->
+<style type="text/css">
+	#body1{background:#ffffff;color: #f00;}
+  </style>
+
+  <title>--AK--</title>
+ </head>
+ <body id="body1" onfocus="changeBgColorClk1()">
+<div id="localtime"></div>
+<script>
+	
+</script>
+
+
+
+
+
+
+ </body>
+</html>
+<script>showtime();changeBgColor();</script>]]></content>
+	<tabTrigger>html</tabTrigger>
+	<scope>text.html entity.name.tag</scope>
+</snippet>

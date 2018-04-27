@@ -1,0 +1,33 @@
+{
+	"atomic_save": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"1803/0306/event-bubble.html",
+		"1804/0420/tpls/node_modules/**"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"fade_fold_buttons": false,
+	"fold_buttons": true,
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_files": false,
+	"preview_on_click": false,
+	"save_on_focus_lost": true,
+	"theme": "Adaptive.sublime-theme"
+}
