@@ -1,52 +1,52 @@
 [
     {
-        "caption": "File", 
         "mnemonic": "F", 
+        "caption": "File", 
         "id": "file"
     }, 
     {
-        "caption": "Edit", 
         "mnemonic": "E", 
+        "caption": "Edit", 
         "id": "edit"
     }, 
     {
-        "caption": "Selection", 
         "mnemonic": "S", 
+        "caption": "Selection", 
         "id": "selection"
     }, 
     {
-        "caption": "Find", 
         "mnemonic": "i", 
+        "caption": "Find", 
         "id": "find"
     }, 
     {
-        "caption": "View", 
         "mnemonic": "V", 
+        "caption": "View", 
         "id": "view"
     }, 
     {
-        "caption": "Goto", 
         "mnemonic": "G", 
+        "caption": "Goto", 
         "id": "goto"
     }, 
     {
-        "caption": "Tools", 
         "mnemonic": "T", 
+        "caption": "Tools", 
         "id": "tools"
     }, 
     {
-        "caption": "Project", 
         "mnemonic": "P", 
+        "caption": "Project", 
         "id": "project"
     }, 
     {
-        "caption": "Preferences", 
         "mnemonic": "n", 
+        "caption": "Preferences", 
         "id": "preferences"
     }, 
     {
-        "caption": "Help", 
         "mnemonic": "H", 
+        "caption": "Help", 
         "id": "help"
     }
 ]

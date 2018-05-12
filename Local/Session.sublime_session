@@ -1,8 +1,19 @@
 {
 	"folder_history":
 	[
-		"/C/xampp/htdocs/1804/0426",
+		"/C/xampp/htdocs/1805/0510",
 		"/C/xampp/htdocs",
+		"/C/xampp/htdocs/1805/0507/forStu/reactNative/myapp",
+		"/C/xampp/htdocs/1805/0507",
+		"/C/xampp/htdocs/hycom",
+		"/C/xampp/htdocs/1805/0504",
+		"/C/xampp/htdocs/1805/0503",
+		"/C/xampp/htdocs/1805/0502",
+		"/C/xampp/htdocs/1804/0428",
+		"/C/xampp/htdocs/1804/0428/quickstart",
+		"/C/xampp/htdocs/1804/0427",
+		"/C/xampp/htdocs/1804/0425",
+		"/C/xampp/htdocs/1804/0426",
 		"/C/xampp/htdocs/1804/0424",
 		"/C/xampp/htdocs/1804",
 		"/C/xampp/htdocs/c1",
@@ -17,7 +28,7 @@
 		"/E/xampp/htdocs"
 	],
 	"last_version": 3143,
-	"last_window_id": 83,
+	"last_window_id": 88,
 	"log_indexing": false,
 	"settings":
 	{
@@ -28,6 +39,26 @@
 			{
 				"selected_items":
 				[
+					[
+						"Http",
+						"HttpModule\talias"
+					],
+					[
+						"sort",
+						"sortAsc2〔function〕"
+					],
+					[
+						"ng-",
+						"ng2-component\tAngular 2 Component Snippet"
+					],
+					[
+						"com",
+						"Component\talias"
+					],
+					[
+						"imp",
+						"import\timports a module …"
+					],
 					[
 						"ng",
 						"ngModel\tAngular 2 ngModel Snippet"
@@ -99,14 +130,6 @@
 					[
 						"ta",
 						"template\tTag"
-					],
-					[
-						"imp",
-						"import〔keyword〕"
-					],
-					[
-						"com",
-						"components"
 					],
 					[
 						"scr",
@@ -527,50 +550,38 @@
 					[
 						"da",
 						"data-lid"
-					],
-					[
-						"consol",
-						"console.log"
-					],
-					[
-						"hi",
-						"hide〔function〕"
-					],
-					[
-						"dat",
-						"data-lname"
 					]
 				]
 			},
 			"build_system_choices":
 			[
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "ins",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
 						"ins",
 						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"ing",
+						"Indexing Status"
 					],
 					[
 						"i",
@@ -587,10 +598,6 @@
 					[
 						"oib",
 						"File: Open In Browser - Production Server"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"istall",
@@ -673,13 +680,15 @@
 						"View: Toggle Menu"
 					]
 				],
-				"width": 391.0
+				"width": 279.0
 			},
 			"console":
 			{
 				"height": 220.0,
 				"history":
 				[
+					"cnpm -v",
+					"dir",
 					"rename:0226-d",
 					"rename",
 					"    import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())  ",
@@ -700,19 +709,78 @@
 			},
 			"file_history":
 			[
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/E/CODE/Angular-1712/项目安排/项目安排.txt",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/main.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/index/index.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/styles.css",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.module.ts",
+				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user/update_basic.php",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/index.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.router.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/index/index.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/utility/service/service.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/detail/detail.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/cart/cart.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/detail/detail.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.component.spec.ts",
+				"/C/xampp/htdocs/1804/0428/iview/src/components/carousel/carousel.vue",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/list/list.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/list/list.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/cart/cart.component.html",
+				"/C/xampp/htdocs/1804/0428/t3.php",
+				"/C/xampp/htdocs/1804/0428/iview/package.json",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_parent.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_parent.component.html",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_son.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo20_p_s/demo20_son.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo20_p_s/demo20_parent.compoent.ts",
+				"/C/xampp/htdocs/1804/0427/t2.html",
+				"/C/xampp/htdocs/1804/0427/t1_sort.html",
+				"/C/xampp/htdocs/1804/0427/quickstart/src/app/test/1qq.component.ts",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-js-completions.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
+				"/C/xampp/htdocs/welive_3.4.0_free/index.php",
+				"/C/xampp/htdocs/welive_3.4.0_free/includes/welive.Core.php",
+				"/C/xampp/htdocs/c1/vue/day04/tpls/src/assets/js/product_list.js",
+				"/C/xampp/htdocs/index.html",
+				"/C/xampp/htdocs/wx1/app.js",
+				"/C/xampp/htdocs/wx1/app.json",
+				"/C/xampp/htdocs/wx1/app.wxss",
+				"/C/xampp/htdocs/1804/0427/cdn/cdn.html",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/package.json",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo17/myhttp.service.ts",
+				"/C/xampp/htdocs/c1/project/admin/data/product_list.php",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.spec.ts",
+				"/C/xampp/htdocs/1804/0425/quickstart-master/src/app/app.module.ts",
+				"/C/xampp/htdocs/1804/0425/quickstart-master/src/app/app.module.js",
+				"/C/xampp/htdocs/1804/0425/quickstart-master/src/app/demo06/log.server.ts",
+				"/C/xampp/htdocs/1804/0425/quickstart-master/src/app/demo06/log.server.js",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo04/upper.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo04/demo04.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo04/demo04.component.html",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo02/demo02.component.html",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo02/demo02.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.js",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.component.html",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.css",
 				"/C/xampp/htdocs/hycom/html/stock2.html",
 				"/C/xampp/htdocs/hycom/js/stock2.js",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.css",
 				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.component.html",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.js",
 				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/text.ts",
 				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo00/demo00.component.ts",
 				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo00/demo00.component.html",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.spec.ts",
-				"/C/xampp/htdocs/index.html",
 				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo03/demo03.component.ts",
 				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo07/demo07.component.ts",
 				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo04/demo04.component.ts",
@@ -768,70 +836,11 @@
 				"/C/xampp/htdocs/1804/0423/v1/src/App.vue",
 				"/C/xampp/htdocs/1804/0423/v1/src/main.js",
 				"/C/xampp/htdocs/1804/0423/t1.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Hello.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/productList.vue",
-				"/C/xampp/htdocs/c1/project/admin/login.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/assets/css/app.css",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/build/webpack.base.conf.js",
-				"/C/xampp/htdocs/1804/0418/t10_todolist.html",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoItem.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoBox.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/main.js",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoList.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoInput.vue",
-				"/C/xampp/htdocs/1804/0419/t3.html",
-				"/C/xampp/htdocs/1804/0419/t7_router_children.html",
-				"/C/xampp/htdocs/1804/0420/tpls/src/router/index.js",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/Hello.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/App.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-list.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-box.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-input.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-box",
-				"/C/xampp/htdocs/1804/0420/tpls/package.json",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Buy.vue",
-				"/C/xampp/htdocs/1804/0420/t1.html",
-				"/C/xampp/htdocs/c1/project/admin/data/product_list.php",
-				"/C/xampp/htdocs/1804/0419/t9.html",
-				"/C/xampp/htdocs/1804/0419/tpls/package.json",
-				"/C/xampp/htdocs/c1/tpls/package.json",
-				"/C/xampp/htdocs/c1/tpls/build/dev-server.js",
-				"/C/xampp/htdocs/c1/project/admin/data/init.php",
-				"/C/xampp/htdocs/1804/0419/t8.html",
-				"/C/xampp/htdocs/1804/xz_admin_vue/project/xz.sql",
-				"/C/xampp/htdocs/1804/0419/t7.html",
-				"/C/xampp/htdocs/1804/0419/t6.html",
-				"/C/xampp/htdocs/1804/0419/t5.html",
-				"/C/xampp/htdocs/1804/0419/t4_2.html",
-				"/C/xampp/htdocs/1804/0419/t2.html",
-				"/C/xampp/htdocs/1804/0419/t1.html",
-				"/C/xampp/htdocs/vuejs/vue-router.js",
-				"/C/xampp/htdocs/1804/0418/t11_router.html",
-				"/C/xampp/htdocs/1804/0418/t11.html",
-				"/C/xampp/htdocs/1804/0418/t8.html",
-				"/C/xampp/htdocs/1804/0418/t9.html",
-				"/C/xampp/htdocs/1804/0417/el.md",
-				"/C/xampp/htdocs/1804/0418/t7_ref.html",
-				"/C/xampp/htdocs/1804/0418/t6_ref.html",
-				"/C/xampp/htdocs/1804/0418/t6.html",
-				"/C/xampp/htdocs/1804/0418/t5.html",
-				"/C/xampp/htdocs/1804/0418/t1_todo.html",
-				"/C/Program Files (x86)/MetaTrader 4 at FOREX.com CN/MQL4/Indicators/V5.20171202.mq4",
-				"/C/xampp/htdocs/1804/0418/t2.html",
-				"/C/xampp/htdocs/1804/0418/t4.html",
-				"/C/xampp/htdocs/1804/0418/t3.html",
-				"/C/xampp/htdocs/1804/0418/t1.html",
-				"/C/xampp/htdocs/1804/0417/t11.html",
-				"/C/xampp/htdocs/1804/0417/t10.html",
-				"/C/xampp/htdocs/1804/0417/t9.html",
-				"/C/xampp/htdocs/1804/0417/t7.html",
-				"/C/xampp/htdocs/1804/0417/t8.html",
-				"/C/xampp/htdocs/1804/0417/t6.html",
-				"/C/xampp/htdocs/1804/0417/t4.html"
+				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Hello.vue"
 			],
 			"find":
 			{
-				"height": 41.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
@@ -868,21 +877,9 @@
 				"height": 58.0
 			},
 			"menu_visible": true,
-			"output.doc":
-			{
-				"height": 0.0
-			},
-			"output.exec":
-			{
-				"height": 230.0
-			},
 			"output.find_results":
 			{
 				"height": 103.0
-			},
-			"output.mdpopups":
-			{
-				"height": 0.0
 			},
 			"pinned_build_system": "",
 			"replace":
@@ -925,7 +922,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 293.0,
+			"side_bar_width": 312.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -940,6 +937,102 @@
 			{
 				"selected_items":
 				[
+					[
+						"docu",
+						"document〔variable〕"
+					],
+					[
+						"doc",
+						"document〔variable〕"
+					],
+					[
+						"data-",
+						"data-market"
+					],
+					[
+						"res",
+						"resThis〔variable〕"
+					],
+					[
+						"s_",
+						"s_html"
+					],
+					[
+						"get",
+						"getLocalStorage"
+					],
+					[
+						"typ",
+						"typeof〔keyword〕"
+					],
+					[
+						"set",
+						"setItem"
+					],
+					[
+						"setS",
+						"wx.setStorage"
+					],
+					[
+						"fon",
+						"fontSize〔variable〕"
+					],
+					[
+						"Com",
+						"Components〔variable〕"
+					],
+					[
+						"imp",
+						"import〔keyword〕"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"g",
+						"getElementsByTagName〔function〕"
+					],
+					[
+						"my",
+						"myValue"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"To",
+						"ToDoList"
+					],
+					[
+						"M",
+						"MyLogin"
+					],
+					[
+						"lo",
+						"location.href.slice(\"23"
+					],
+					[
+						"loca",
+						"location〔variable〕"
+					],
+					[
+						"Http",
+						"HttpModule\talias"
+					],
+					[
+						"sort",
+						"sortAsc2〔function〕"
+					],
+					[
+						"ng-",
+						"ng2-component\tAngular 2 Component Snippet"
+					],
+					[
+						"com",
+						"Component\talias"
+					],
 					[
 						"ng",
 						"ngModel\tAngular 2 ngModel Snippet"
@@ -959,10 +1052,6 @@
 					[
 						"teml",
 						"templateUrl\tproperty"
-					],
-					[
-						"Com",
-						"Component\talias"
 					],
 					[
 						"impor",
@@ -1013,20 +1102,8 @@
 						"template\tTag"
 					],
 					[
-						"imp",
-						"import〔keyword〕"
-					],
-					[
-						"com",
-						"components"
-					],
-					[
 						"scr",
 						"script"
-					],
-					[
-						"To",
-						"TodoInput"
 					],
 					[
 						"T",
@@ -1063,10 +1140,6 @@
 					[
 						"suc",
 						"succesComp〔variable〕"
-					],
-					[
-						"res",
-						"resure"
 					],
 					[
 						"su",
@@ -1121,16 +1194,8 @@
 						"my-chatroom"
 					],
 					[
-						"my",
-						"myspan"
-					],
-					[
 						"tod",
 						"todo-item"
-					],
-					[
-						"set",
-						"setInterval〔function〕"
 					],
 					[
 						"me",
@@ -1229,20 +1294,12 @@
 						"background-color"
 					],
 					[
-						"lo",
-						"loadData"
-					],
-					[
 						"pa",
 						"pageCount"
 					],
 					[
 						"data",
 						"datacount"
-					],
-					[
-						"fon",
-						"font-family"
 					],
 					[
 						"hei",
@@ -1349,10 +1406,6 @@
 						"text-decoration"
 					],
 					[
-						"get",
-						"getElementsByTagName〔function〕"
-					],
-					[
 						"json_",
 						"json_encode〔function〕"
 					],
@@ -1395,67 +1448,37 @@
 					[
 						"b",
 						"background"
-					],
-					[
-						"cons",
-						"console.log(12512561"
-					],
-					[
-						"pri",
-						"priceup〔argument〕"
-					],
-					[
-						"box",
-						"box-sizing"
-					],
-					[
-						"load",
-						"loadProductBySearch〔function〕"
-					],
-					[
-						"mysqli_fetch_",
-						"mysqli_fetch_assoc〔function〕"
-					],
-					[
-						"pr",
-						"$priceup〔variable〕"
-					],
-					[
-						"preg",
-						"preg_match〔function〕"
-					],
-					[
-						"json",
-						"json_encode〔function〕"
-					],
-					[
-						"mysqli_fe",
-						"mysqli_fetch_assoc〔function〕"
-					],
-					[
-						"pre",
-						"preg_match〔function〕"
-					],
-					[
-						"da",
-						"data-lid"
-					],
-					[
-						"consol",
-						"console.log"
-					],
-					[
-						"hi",
-						"hide〔function〕"
-					],
-					[
-						"dat",
-						"data-lname"
 					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/xampp/htdocs/1805/0510/for.cs",
+					"settings":
+					{
+						"buffer_size": 424,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/1805/0510/Hello.cs",
+					"settings":
+					{
+						"buffer_size": 459,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/1805/0510/Hello2.cs",
+					"settings":
+					{
+						"buffer_size": 149,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -1481,12 +1504,28 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "ins",
+				"last_filter": "rem",
 				"selected_items":
 				[
 					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
 						"ins",
 						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"ing",
+						"Indexing Status"
 					],
 					[
 						"i",
@@ -1503,10 +1542,6 @@
 					[
 						"oib",
 						"File: Open In Browser - Production Server"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"istall",
@@ -1589,13 +1624,15 @@
 						"View: Toggle Menu"
 					]
 				],
-				"width": 393.0
+				"width": 666.0
 			},
 			"console":
 			{
-				"height": 220.0,
+				"height": 221.0,
 				"history":
 				[
+					"cnpm -v",
+					"dir",
 					"rename:0226-d",
 					"rename",
 					"    import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())  ",
@@ -1616,137 +1653,138 @@
 			},
 			"expanded_folders":
 			[
+				"/C/xampp/htdocs/1805/0510"
 			],
 			"file_history":
 			[
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo02/demo02.component.html",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo02/demo02.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.js",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.component.html",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.css",
-				"/C/xampp/htdocs/hycom/html/stock2.html",
+				"/C/xampp/htdocs/c.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/xdyplayer.js",
+				"/C/xampp/htdocs/c1.js",
+				"/E/CODE/tm/tts.tmooc.cn/css/jquery.mcustomscrollbar.min.css",
+				"/C/xampp/htdocs/1.json",
+				"/E/CODE/tm/tts.tmooc.cn/css/studyplan.css",
+				"/E/CODE/tm/tts.tmooc.cn/css/style.css",
+				"/E/CODE/tm/tts.tmooc.cn/default.html",
+				"/C/xampp/htdocs/c.json",
+				"/E/CODE/tm/no_cookie/tts.tmooc.cn/no_cookie.html",
+				"/E/CODE/tm/tts.tmooc.cn/js/ttsplayer.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/jquery-2.1.1.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/jquery-cookie.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/layer.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/main.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/ccvideo.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/checklogin.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/jquery.mcustomscrollbar.concat.min.js",
+				"/C/xampp/htdocs/1805/0510/Hello.cs",
+				"/C/xampp/htdocs/1805/0510/Hello2.cs",
+				"/C/Windows/Microsoft.NET/Framework/v4.0.30319/csc.exe.config",
+				"/E/DOWNLOAD/eXeScope_veryhuo.com/eXeScope_veryhuo.com/eXeScope.ini",
+				"/C/xampp/htdocs/AK.js",
+				"/C/xampp/htdocs/1805/0510/vip.js",
 				"/C/xampp/htdocs/hycom/js/stock2.js",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/text.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo00/demo00.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo00/demo00.component.html",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.spec.ts",
+				"/C/xampp/htdocs/hycom/html/stock2.html",
 				"/C/xampp/htdocs/index.html",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo03/demo03.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo07/demo07.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo04/demo04.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo06/demo06.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo01/demo01.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo02_lianxi/demo02.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo03/demo03.component.js",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo06/demo06.component.html",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo05/demo05.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo05/demo05.component.html",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/favicon.ico",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/app.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/app.module.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/app.module.js",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo04/demo04.component.html",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo04/demo04.component.js",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo04/demo04.component.js.map",
-				"/C/Users/web-01/AppData/Roaming/vscode-react-native/VSCodeTelemetrySettings.json",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo01/demo1.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/main.ts",
-				"/C/xampp/htdocs/1804/0424/t1.html",
+				"/C/xampp/htdocs/1805/0509/t2.html",
+				"/C/xampp/htdocs/hycom/css/stock2.css",
+				"/C/xampp/htdocs/1805/0509/t1.html",
+				"/C/xampp/htdocs/hycom/html/forex.html",
+				"/C/xampp/htdocs/hycom/js/forex.js",
+				"/C/xampp/htdocs/hycom/js/AK.js",
+				"/C/xampp/htdocs/1805/0507/forStu/reactNative/myapp/app/component/demo01.js",
+				"/C/xampp/htdocs/1805/0507/forStu/reactNative/myapp/index.android.js",
+				"/C/xampp/htdocs/1805/0507/forStu/reactNative/myapp/__tests__/index.android.js",
+				"/C/xampp/htdocs/1805/0507/test/c1.css",
+				"/C/xampp/htdocs/1805/0507/t1.html",
+				"/C/xampp/htdocs/1805/0507/test/c1.less",
+				"/C/xampp/htdocs/1805/0504/t10_control.html",
+				"/C/xampp/htdocs/1805/0504/t10_control.js",
+				"/C/xampp/htdocs/1805/0507/test/c1.css.map",
+				"/C/xampp/htdocs/1805/0504/t10_control.jsx",
+				"/C/xampp/htdocs/1805/0504/t1.jsx",
+				"/C/xampp/htdocs/cart.html",
+				"/C/xampp/htdocs/jquery-1.11.3.js",
+				"/C/xampp/htdocs/hycom/html/rili.html",
+				"/C/xampp/htdocs/1805/0504/t11.html",
+				"/C/xampp/htdocs/1805/0504/t11.jsx",
+				"/C/xampp/htdocs/1805/0504/t10.html",
+				"/C/xampp/htdocs/1805/0504/t10.jsx",
+				"/C/xampp/htdocs/1805/0504/t5.jsx",
+				"/C/xampp/htdocs/1805/0504/t9.jsx",
+				"/C/xampp/htdocs/1804/0420/tpls/build/webpack.base.conf.js",
+				"/C/xampp/htdocs/1804/0420/tpls/build/webpack.dev.conf.js",
+				"/C/xampp/htdocs/1805/0504/t9.html",
+				"/C/xampp/htdocs/1805/0504/t8.html",
+				"/C/xampp/htdocs/1805/0504/t7.jsx",
+				"/C/xampp/htdocs/1805/0504/t7.html",
+				"/C/xampp/htdocs/1805/0504/t5.html",
+				"/C/xampp/htdocs/1805/0504/t3.html",
+				"/C/xampp/htdocs/1805/0504/t3.jsx",
+				"/C/xampp/htdocs/1805/0504/t1.html",
+				"/C/xampp/htdocs/1805/0504/t2.jsx",
+				"/C/xampp/htdocs/1805/0504/t2.html",
+				"/C/xampp/htdocs/1805/0503/t7.jsx",
+				"/C/xampp/htdocs/vue-v2.5.13.js",
+				"/C/xampp/htdocs/bootstrap-v3.3.7/dist/js/bootstrap.js",
+				"/C/xampp/htdocs/bootstrap-v2.3.2/js/bootstrap.js",
+				"/C/xampp/htdocs/1805/0503/t7.html",
+				"/C/xampp/htdocs/1805/0503/t5_comps.html",
+				"/C/xampp/htdocs/1805/0503/t5.jsx",
 				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
-				"/C/xampp/htdocs/c1/project/admin/js/user_list.js",
-				"/C/xampp/htdocs/c1/project/admin/user_list.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/router/index.js",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/UserList.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/ProductList.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/product_list.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user_list.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/main.js",
-				"/C/xampp/htdocs/1804/0423/t2.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/assets/js/app.js",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Index.vue",
-				"/C/xampp/htdocs/c1/project/admin/index.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Chat.vue",
-				"/C/xampp/htdocs/c1/project/admin/js/product_list.js",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Login.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user/login.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user/user_list.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/init.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/package.json",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/page404.vue",
-				"/C/xampp/htdocs/c1/project/admin/product_list.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/App.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/Receipt.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/Place.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/OrderList.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/Order.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/router/index.js",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/HelloWorld.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/Index.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/OrderDetail.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/App.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/main.js",
-				"/C/xampp/htdocs/1804/0423/t1.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Hello.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/productList.vue",
-				"/C/xampp/htdocs/c1/project/admin/login.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/assets/css/app.css",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/build/webpack.base.conf.js",
-				"/C/xampp/htdocs/1804/0418/t10_todolist.html",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoItem.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoBox.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/main.js",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoList.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoInput.vue",
-				"/C/xampp/htdocs/1804/0419/t3.html",
-				"/C/xampp/htdocs/1804/0419/t7_router_children.html",
-				"/C/xampp/htdocs/1804/0420/tpls/src/router/index.js",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/Hello.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/App.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-list.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-box.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-input.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-box",
-				"/C/xampp/htdocs/1804/0420/tpls/package.json",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Buy.vue",
-				"/C/xampp/htdocs/1804/0420/t1.html",
-				"/C/xampp/htdocs/c1/project/admin/data/product_list.php",
-				"/C/xampp/htdocs/1804/0419/t9.html",
-				"/C/xampp/htdocs/1804/0419/tpls/package.json",
-				"/C/xampp/htdocs/c1/tpls/package.json",
-				"/C/xampp/htdocs/c1/tpls/build/dev-server.js",
-				"/C/xampp/htdocs/c1/project/admin/data/init.php",
-				"/C/xampp/htdocs/1804/0419/t8.html",
-				"/C/xampp/htdocs/1804/xz_admin_vue/project/xz.sql",
-				"/C/xampp/htdocs/1804/0419/t7.html",
-				"/C/xampp/htdocs/1804/0419/t6.html",
-				"/C/xampp/htdocs/1804/0419/t5.html",
-				"/C/xampp/htdocs/1804/0419/t4_2.html",
-				"/C/xampp/htdocs/1804/0419/t2.html",
-				"/C/xampp/htdocs/1804/0419/t1.html",
-				"/C/xampp/htdocs/vuejs/vue-router.js",
-				"/C/xampp/htdocs/1804/0418/t11_router.html",
-				"/C/xampp/htdocs/1804/0418/t11.html",
-				"/C/xampp/htdocs/1804/0418/t8.html",
-				"/C/xampp/htdocs/1804/0418/t9.html",
-				"/C/xampp/htdocs/1804/0417/el.md",
-				"/C/xampp/htdocs/1804/0418/t7_ref.html",
-				"/C/xampp/htdocs/1804/0418/t6_ref.html",
-				"/C/xampp/htdocs/1804/0418/t6.html",
-				"/C/xampp/htdocs/1804/0418/t5.html",
-				"/C/xampp/htdocs/1804/0418/t1_todo.html",
-				"/C/Program Files (x86)/MetaTrader 4 at FOREX.com CN/MQL4/Indicators/V5.20171202.mq4",
-				"/C/xampp/htdocs/1804/0418/t2.html",
-				"/C/xampp/htdocs/1804/0418/t4.html",
-				"/C/xampp/htdocs/1804/0418/t3.html",
-				"/C/xampp/htdocs/1804/0418/t1.html",
-				"/C/xampp/htdocs/1804/0417/t11.html",
-				"/C/xampp/htdocs/1804/0417/t10.html",
-				"/C/xampp/htdocs/1804/0417/t9.html",
-				"/C/xampp/htdocs/1804/0417/t7.html",
-				"/C/xampp/htdocs/1804/0417/t8.html"
+				"/C/xampp/htdocs/1805/0503/t6.jsx",
+				"/C/xampp/htdocs/1805/0503/t4.jsx",
+				"/C/xampp/htdocs/1805/0503/t4_comp.html",
+				"/C/xampp/htdocs/1805/0503/t3.jsx",
+				"/C/xampp/htdocs/1805/0503/t3.html",
+				"/C/xampp/htdocs/1805/0503/t3.js",
+				"/C/xampp/htdocs/1805/cdn/README.html",
+				"/C/xampp/htdocs/1805/0503/t2_jsx.html",
+				"/C/xampp/htdocs/1805/0503/t2.jsx",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/C/xampp/htdocs/1805/0503/t1.html",
+				"/C/xampp/htdocs/1805/0502/awesome-app/.eslintrc.js",
+				"/C/xampp/htdocs/1805/0502/awesome-app/src/components/HelloWorld.vue",
+				"/C/xampp/htdocs/1805/0502/awesome-app/src/index.vue",
+				"/C/xampp/htdocs/1805/0502/awesome-app/package.json",
+				"/C/xampp/htdocs/1805/0502/vueShop/package.json",
+				"/C/xampp/htdocs/1805/0502/t1.html",
+				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/data---/data/user/session_data.php",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+				"/C/xampp/htdocs/1805/0502/t2.html",
+				"/C/xampp/htdocs/1805/0502/t3.html",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/Default/open_in_browser.py",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/E/CODE/Angular-1712/项目安排/项目安排.txt",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/main.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/index/index.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/styles.css",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.module.ts",
+				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user/update_basic.php",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/index.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.router.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/index/index.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/utility/service/service.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/detail/detail.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/cart/cart.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/detail/detail.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.component.spec.ts",
+				"/C/xampp/htdocs/1804/0428/iview/src/components/carousel/carousel.vue",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/list/list.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/list/list.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/cart/cart.component.html",
+				"/C/xampp/htdocs/1804/0428/t3.php",
+				"/C/xampp/htdocs/1804/0428/iview/package.json",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_parent.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_parent.component.html",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_son.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo20_p_s/demo20_son.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo20_p_s/demo20_parent.compoent.ts",
+				"/C/xampp/htdocs/1804/0427/t2.html"
 			],
 			"find":
 			{
@@ -1761,9 +1799,42 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
+					"校",
+					" ",
+					"您未开通校外观看视频权限",
+					"vip",
+					"范围",
+					"baidu",
+					"s_list_div",
+					"chang",
+					"wel",
+					"red",
+					"Switch",
+					"h5",
+					"MainComponent",
+					"Son",
+					"input_comp",
+					"ToDoInput",
+					"ToDoBox",
+					"MyTest2",
+					"MyTest1",
+					"MyTest3",
+					"isArray",
+					"isAr",
+					"isAa",
+					"isA",
+					"isAr",
+					"isA",
+					"isArray",
+					"isarray",
+					"array",
+					"form",
+					"Upwd",
+					"Uname",
+					"start"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1771,6 +1842,13 @@
 				"regex": true,
 				"replace_history":
 				[
+					"s_list_item",
+					"MyComponent",
+					"Son",
+					"Parent",
+					"ToDoList",
+					"ToDoInput",
+					"ToDoBox"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1781,17 +1859,561 @@
 			"folders":
 			[
 				{
+					"path": "C:\\xampp\\htdocs\\1805\\0504"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\hycom"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\1805\\0507"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\1805\\0507\\forStu\\reactNative\\myapp"
+				},
+				{
 					"path": "C:\\xampp\\htdocs"
 				},
 				{
-					"path": "C:\\xampp\\htdocs\\1804\\0426"
+					"path": "C:\\xampp\\htdocs\\1805\\0510"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/xampp/htdocs/1805/0510/for.cs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 424,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										424,
+										424
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 17,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/C#/C#.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/xampp/htdocs/1805/0510/Hello.cs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 459,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										436,
+										436
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/C#/C#.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/xampp/htdocs/1805/0510/Hello2.cs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 149,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										149,
+										149
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/C#/C#.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
 					]
 				},
 				{
@@ -1802,7 +2424,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -1828,7 +2450,7 @@
 				"cols":
 				[
 					0.0,
-					0.551779935275,
+					0.586811352254,
 					1.0
 				],
 				"rows":
@@ -1854,12 +2476,16 @@
 			{
 				"height": 0.0
 			},
+			"output.nodejs":
+			{
+				"height": 103.0
+			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,804,216,63,1444",
+			"position": "0,2,2,-32000,-32000,-1,-1,27,0,0,160",
 			"project": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 73.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1893,7 +2519,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -1901,12 +2527,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 293.0,
+			"side_bar_width": 242.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 81,
+			"window_id": 84,
 			"workspace_name": ""
 		}
 	],
@@ -1914,6 +2540,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/C/xampp/htdocs/1805/0502/t1.sublime-workspace"
 		]
 	}
 }

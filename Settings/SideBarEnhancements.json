@@ -1,14 +1,30 @@
-{
-   "folders":
-   [
-      {
-         "path": "C:\\xampp\\htdocs"
-      }
-   ],
-   "settings": {
-      "sublime-view-in-browser": {
-         "baseUrl": "http://localhost",
-         "basePath": "C:\\xampp\\htdocs"
-      }
-   }
-}
+// {
+//    "folders":
+//    [
+//       {
+//          "path": "/1805/"
+//       }
+//    ],
+//    "settings": {
+//       "sublime-view-in-browser": {
+//          "baseUrl": "http://localhost",
+//          "basePath": "/1805/"
+//       }
+//    }
+// }
+
+// {
+//     "folders":
+//     [
+//         {
+//             "path": "C:\\xampp\\htdocs\\"
+//         }
+//     ],
+//     "settings": {
+//         "sublime-view-in-browser": {
+//             "baseUrl": "http://localhost",
+//             "basePath": "C:\\xampp\\htdocs\\"
+//         }
+//     }
+// }
+

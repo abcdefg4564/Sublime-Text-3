@@ -1,9 +1,19 @@
 {
 	"folder_history":
 	[
+		"/C/xampp/htdocs/1805/0510",
+		"/C/xampp/htdocs",
+		"/C/xampp/htdocs/1805/0507/forStu/reactNative/myapp",
+		"/C/xampp/htdocs/1805/0507",
+		"/C/xampp/htdocs/hycom",
+		"/C/xampp/htdocs/1805/0504",
+		"/C/xampp/htdocs/1805/0503",
+		"/C/xampp/htdocs/1805/0502",
+		"/C/xampp/htdocs/1804/0428",
+		"/C/xampp/htdocs/1804/0428/quickstart",
+		"/C/xampp/htdocs/1804/0427",
 		"/C/xampp/htdocs/1804/0425",
 		"/C/xampp/htdocs/1804/0426",
-		"/C/xampp/htdocs",
 		"/C/xampp/htdocs/1804/0424",
 		"/C/xampp/htdocs/1804",
 		"/C/xampp/htdocs/c1",
@@ -18,7 +28,7 @@
 		"/E/xampp/htdocs"
 	],
 	"last_version": 3143,
-	"last_window_id": 83,
+	"last_window_id": 88,
 	"log_indexing": false,
 	"settings":
 	{
@@ -30,6 +40,26 @@
 				"selected_items":
 				[
 					[
+						"Http",
+						"HttpModule\talias"
+					],
+					[
+						"sort",
+						"sortAsc2〔function〕"
+					],
+					[
+						"ng-",
+						"ng2-component\tAngular 2 Component Snippet"
+					],
+					[
+						"com",
+						"Component\talias"
+					],
+					[
+						"imp",
+						"import\timports a module …"
+					],
+					[
 						"ng",
 						"ngModel\tAngular 2 ngModel Snippet"
 					],
@@ -100,14 +130,6 @@
 					[
 						"ta",
 						"template\tTag"
-					],
-					[
-						"imp",
-						"import〔keyword〕"
-					],
-					[
-						"com",
-						"components"
 					],
 					[
 						"scr",
@@ -528,1015 +550,34 @@
 					[
 						"da",
 						"data-lid"
-					],
-					[
-						"consol",
-						"console.log"
-					],
-					[
-						"hi",
-						"hide〔function〕"
-					],
-					[
-						"dat",
-						"data-lname"
 					]
 				]
 			},
 			"build_system_choices":
 			[
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "ins",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
 						"ins",
 						"Package Control: Install Package"
-					],
-					[
-						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"ist",
-						"Package Control: Install Package"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"oib",
-						"File: Open In Browser - Production Server"
 					],
 					[
 						"remove",
 						"Package Control: Remove Package"
 					],
 					[
-						"istall",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"viewinb",
-						"View In Browser"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"package Control:",
+						"rem",
 						"Package Control: Remove Package"
 					],
 					[
-						"prv",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"html",
-						"Snippet: html"
-					],
-					[
-						"sinppet",
-						"Snippet: Lorem ipsum"
-					],
-					[
-						"set syntax: ht",
-						"Set Syntax: HTML"
-					],
-					[
-						"viewin",
-						"View In Browser"
-					],
-					[
-						"openin",
-						"File: Open In Browser - Production Server"
-					],
-					[
-						"viewinbrowser",
-						"View In Browser"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"",
-						"About"
-					],
-					[
-						"\\",
-						"Emmet: Split\\Join Tag"
-					],
-					[
-						"Package Control: install",
-						"Package Control: Install Package"
-					],
-					[
-						"sidebar",
-						"View: Toggle Open Files in Side Bar"
-					],
-					[
-						"SideBar",
-						"View: Toggle Open Files in Side Bar"
-					],
-					[
-						"Install",
-						"Package Control: Install Package"
-					],
-					[
-						"view",
-						"View: Toggle Menu"
-					]
-				],
-				"width": 391.0
-			},
-			"console":
-			{
-				"height": 220.0,
-				"history":
-				[
-					"rename:0226-d",
-					"rename",
-					"    import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())  ",
-					"save all",
-					"saveall",
-					"save",
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/xampp/htdocs/hycom/html/stock2.html",
-				"/C/xampp/htdocs/hycom/js/stock2.js",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.css",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo01/demo01.component.html",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.js",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/text.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo00/demo00.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo00/demo00.component.html",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.spec.ts",
-				"/C/xampp/htdocs/index.html",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo03/demo03.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo07/demo07.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo04/demo04.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo06/demo06.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo01/demo01.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo02_lianxi/demo02.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo03/demo03.component.js",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo06/demo06.component.html",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo05/demo05.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo05/demo05.component.html",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/favicon.ico",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/app.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/app.module.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/app.module.js",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo04/demo04.component.html",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo04/demo04.component.js",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo04/demo04.component.js.map",
-				"/C/Users/web-01/AppData/Roaming/vscode-react-native/VSCodeTelemetrySettings.json",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/app/demo01/demo1.component.ts",
-				"/C/xampp/htdocs/1804/0424/quickstart-master/src/main.ts",
-				"/C/xampp/htdocs/1804/0424/t1.html",
-				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
-				"/C/xampp/htdocs/c1/project/admin/js/user_list.js",
-				"/C/xampp/htdocs/c1/project/admin/user_list.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/router/index.js",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/UserList.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/ProductList.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/product_list.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user_list.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/main.js",
-				"/C/xampp/htdocs/1804/0423/t2.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/assets/js/app.js",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Index.vue",
-				"/C/xampp/htdocs/c1/project/admin/index.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Chat.vue",
-				"/C/xampp/htdocs/c1/project/admin/js/product_list.js",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Login.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user/login.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user/user_list.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/init.php",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/package.json",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/page404.vue",
-				"/C/xampp/htdocs/c1/project/admin/product_list.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/App.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/Receipt.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/Place.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/OrderList.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/Order.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/router/index.js",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/HelloWorld.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/Index.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/components/OrderDetail.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/App.vue",
-				"/C/xampp/htdocs/1804/0423/v1/src/main.js",
-				"/C/xampp/htdocs/1804/0423/t1.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Hello.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/productList.vue",
-				"/C/xampp/htdocs/c1/project/admin/login.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/assets/css/app.css",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/build/webpack.base.conf.js",
-				"/C/xampp/htdocs/1804/0418/t10_todolist.html",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoItem.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoBox.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/main.js",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoList.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoInput.vue",
-				"/C/xampp/htdocs/1804/0419/t3.html",
-				"/C/xampp/htdocs/1804/0419/t7_router_children.html",
-				"/C/xampp/htdocs/1804/0420/tpls/src/router/index.js",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/Hello.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/App.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-list.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-box.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-input.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-box",
-				"/C/xampp/htdocs/1804/0420/tpls/package.json",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Buy.vue",
-				"/C/xampp/htdocs/1804/0420/t1.html",
-				"/C/xampp/htdocs/c1/project/admin/data/product_list.php",
-				"/C/xampp/htdocs/1804/0419/t9.html",
-				"/C/xampp/htdocs/1804/0419/tpls/package.json",
-				"/C/xampp/htdocs/c1/tpls/package.json",
-				"/C/xampp/htdocs/c1/tpls/build/dev-server.js",
-				"/C/xampp/htdocs/c1/project/admin/data/init.php",
-				"/C/xampp/htdocs/1804/0419/t8.html",
-				"/C/xampp/htdocs/1804/xz_admin_vue/project/xz.sql",
-				"/C/xampp/htdocs/1804/0419/t7.html",
-				"/C/xampp/htdocs/1804/0419/t6.html",
-				"/C/xampp/htdocs/1804/0419/t5.html",
-				"/C/xampp/htdocs/1804/0419/t4_2.html",
-				"/C/xampp/htdocs/1804/0419/t2.html",
-				"/C/xampp/htdocs/1804/0419/t1.html",
-				"/C/xampp/htdocs/vuejs/vue-router.js",
-				"/C/xampp/htdocs/1804/0418/t11_router.html",
-				"/C/xampp/htdocs/1804/0418/t11.html",
-				"/C/xampp/htdocs/1804/0418/t8.html",
-				"/C/xampp/htdocs/1804/0418/t9.html",
-				"/C/xampp/htdocs/1804/0417/el.md",
-				"/C/xampp/htdocs/1804/0418/t7_ref.html",
-				"/C/xampp/htdocs/1804/0418/t6_ref.html",
-				"/C/xampp/htdocs/1804/0418/t6.html",
-				"/C/xampp/htdocs/1804/0418/t5.html",
-				"/C/xampp/htdocs/1804/0418/t1_todo.html",
-				"/C/Program Files (x86)/MetaTrader 4 at FOREX.com CN/MQL4/Indicators/V5.20171202.mq4",
-				"/C/xampp/htdocs/1804/0418/t2.html",
-				"/C/xampp/htdocs/1804/0418/t4.html",
-				"/C/xampp/htdocs/1804/0418/t3.html",
-				"/C/xampp/htdocs/1804/0418/t1.html",
-				"/C/xampp/htdocs/1804/0417/t11.html",
-				"/C/xampp/htdocs/1804/0417/t10.html",
-				"/C/xampp/htdocs/1804/0417/t9.html",
-				"/C/xampp/htdocs/1804/0417/t7.html",
-				"/C/xampp/htdocs/1804/0417/t8.html",
-				"/C/xampp/htdocs/1804/0417/t6.html",
-				"/C/xampp/htdocs/1804/0417/t4.html"
-			],
-			"find":
-			{
-				"height": 41.0
-			},
-			"find_in_files":
-			{
-				"height": 127.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 23.0
-			},
-			"input":
-			{
-				"height": 58.0
-			},
-			"menu_visible": true,
-			"output.doc":
-			{
-				"height": 0.0
-			},
-			"output.exec":
-			{
-				"height": 230.0
-			},
-			"output.find_results":
-			{
-				"height": 103.0
-			},
-			"output.mdpopups":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 42.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"BigTime.js"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 293.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1220.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"ng-",
-						"ng2-router-config\tAngular 2 Router Config Snippet"
-					],
-					[
-						"com",
-						"Component\talias"
-					],
-					[
-						"imp",
-						"import\timports a module …"
-					],
-					[
-						"ng",
-						"ngModel\tAngular 2 ngModel Snippet"
-					],
-					[
-						"v",
-						"v_marketcode"
-					],
-					[
-						"fos",
-						"font-size"
-					],
-					[
-						"temp",
-						"templateUrl\tproperty"
-					],
-					[
-						"teml",
-						"templateUrl\tproperty"
-					],
-					[
-						"Com",
-						"Component\talias"
-					],
-					[
-						"impor",
-						"import\timports a module …"
-					],
-					[
-						"page",
-						"pageCount"
-					],
-					[
-						"pru",
-						"product_list.html"
-					],
-					[
-						"new",
-						"newVal〔variable〕"
-					],
-					[
-						"co",
-						"console"
-					],
-					[
-						"pic",
-						"picUrl"
-					],
-					[
-						"for",
-						"for\tfor (…) {…}"
-					],
-					[
-						"prev",
-						"prevPage"
-					],
-					[
-						"re",
-						"result"
-					],
-					[
-						"Vu",
-						"VueResource"
-					],
-					[
-						"O",
-						"OrderDetail"
-					],
-					[
-						"ta",
-						"template\tTag"
-					],
-					[
-						"scr",
-						"script"
-					],
-					[
-						"To",
-						"TodoInput"
-					],
-					[
-						"T",
-						"TodoInput"
-					],
-					[
-						"con",
-						"components"
-					],
-					[
-						"trans",
-						"transition"
-					],
-					[
-						"router",
-						"router-view"
-					],
-					[
-						"per",
-						"personComp"
-					],
-					[
-						"shop",
-						"shopcartComp"
-					],
-					[
-						"fun",
-						"function〔keyword〕"
-					],
-					[
-						"resu",
-						"resure"
-					],
-					[
-						"suc",
-						"succesComp〔variable〕"
-					],
-					[
-						"res",
-						"resure"
-					],
-					[
-						"su",
-						"success"
-					],
-					[
-						"rout",
-						"routes〔variable〕"
-					],
-					[
-						"de",
-						"detail"
-					],
-					[
-						"rou",
-						"routes〔variable〕"
-					],
-					[
-						"del",
-						"delHandle"
-					],
-					[
-						"reg",
-						"regComponent"
-					],
-					[
-						"login",
-						"loginComponent"
-					],
-					[
-						"to",
-						"todo-itme"
-					],
-					[
-						"todo",
-						"todo-itme"
-					],
-					[
-						"todo-",
-						"todo-box"
-					],
-					[
-						"not",
-						"noticeShuke"
-					],
-					[
-						"xi",
-						"xionger"
-					],
-					[
-						"my-",
-						"my-chatroom"
-					],
-					[
-						"my",
-						"myspan"
-					],
-					[
-						"tod",
-						"todo-item"
-					],
-					[
-						"set",
-						"setInterval〔function〕"
-					],
-					[
-						"me",
-						"methods"
-					],
-					[
-						"conn",
-						"container"
-					],
-					[
-						"cont",
-						"container"
-					],
-					[
-						"bi",
-						"bindings"
-					],
-					[
-						"le",
-						"letter-spacing"
-					],
-					[
-						"h",
-						"handleClick"
-					],
-					[
-						"is",
-						"isBool_box"
-					],
-					[
-						"parse",
-						"parseInt〔function〕"
-					],
-					[
-						"nu",
-						"num2"
-					],
-					[
-						"show",
-						"showSmall"
-					],
-					[
-						"cur",
-						"currCount2〔variable〕"
-					],
-					[
-						"console",
-						"console.log"
-					],
-					[
-						"rs",
-						"resCount2"
-					],
-					[
-						"key",
-						"keyCode"
-					],
-					[
-						"pos",
-						"pos:a\tposition:absolute"
-					],
-					[
-						"PO",
-						"pos-a\tposition: absolute;"
-					],
-					[
-						"cl",
-						"class\tAttr"
-					],
-					[
-						"spy",
-						"spy_s"
-					],
-					[
-						"l",
-						"length〔variable〕"
-					],
-					[
-						"int",
-						"integer〔keyword〕"
-					],
-					[
-						"par",
-						"parseFloat〔function〕"
-					],
-					[
-						"st",
-						"style\tTag"
-					],
-					[
-						"war",
-						"word-wrap"
-					],
-					[
-						"ba",
-						"background-color"
-					],
-					[
-						"lo",
-						"loadData"
-					],
-					[
-						"pa",
-						"pageCount"
-					],
-					[
-						"data",
-						"datacount"
-					],
-					[
-						"fon",
-						"font-family"
-					],
-					[
-						"hei",
-						"hei\theight"
-					],
-					[
-						"p",
-						"phone"
-					],
-					[
-						"fl",
-						"float"
-					],
-					[
-						"gett",
-						"gettype"
-					],
-					[
-						"code",
-						"code.php"
-					],
-					[
-						"layui-nav",
-						"layui-nav-item"
-					],
-					[
-						"nav",
-						"navbar"
-					],
-					[
-						"inde",
-						"index_i"
-					],
-					[
-						"requ",
-						"require_once〔keyword〕"
-					],
-					[
-						"bor",
-						"border-radius"
-					],
-					[
-						"bl",
-						"block"
-					],
-					[
-						"po",
-						"pos:r\tposition:relative"
-					],
-					[
-						"clear",
-						"clearInterval〔function〕"
-					],
-					[
-						"sli",
-						"siblings〔function〕"
-					],
-					[
-						"gl",
-						"glyphicon-asterisk"
-					],
-					[
-						"do",
-						"dropdown"
-					],
-					[
-						"hel",
-						"help-block"
-					],
-					[
-						"用户",
-						"用户名可以数字，字母"
-					],
-					[
-						"col-sm-",
-						"col-sm-5"
-					],
-					[
-						"col-",
-						"col-sm-2"
-					],
-					[
-						"form",
-						"form-control"
-					],
-					[
-						"rig",
-						"right"
-					],
-					[
-						"sh",
-						"shelf_time"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"fru",
-						"fruitType"
-					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"get",
-						"getElementsByTagName〔function〕"
-					],
-					[
-						"json_",
-						"json_encode〔function〕"
-					],
-					[
-						"vide",
-						"video_memory"
-					],
-					[
-						"col",
-						"col-md-6"
-					],
-					[
-						"text-",
-						"text-success"
-					],
-					[
-						"img",
-						"img-thumbnail"
-					],
-					[
-						"ab_",
-						"ab_tab1"
-					],
-					[
-						"space",
-						"space-between"
-					],
-					[
-						"max",
-						"max-width:991px"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"he",
-						"height"
-					],
-					[
-						"b",
-						"background"
-					],
-					[
-						"cons",
-						"console.log(12512561"
-					],
-					[
-						"pri",
-						"priceup〔argument〕"
-					],
-					[
-						"box",
-						"box-sizing"
-					],
-					[
-						"load",
-						"loadProductBySearch〔function〕"
-					],
-					[
-						"mysqli_fetch_",
-						"mysqli_fetch_assoc〔function〕"
-					],
-					[
-						"pr",
-						"$priceup〔variable〕"
-					],
-					[
-						"preg",
-						"preg_match〔function〕"
-					],
-					[
-						"json",
-						"json_encode〔function〕"
-					],
-					[
-						"mysqli_fe",
-						"mysqli_fetch_assoc〔function〕"
-					],
-					[
-						"pre",
-						"preg_match〔function〕"
-					],
-					[
-						"da",
-						"data-lid"
-					],
-					[
-						"consol",
-						"console.log"
-					],
-					[
-						"hi",
-						"hide〔function〕"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/C/xampp/htdocs/1804/0427/quickstart/src/app/test/1qq.component.ts",
-					"settings":
-					{
-						"buffer_size": 298,
-						"encoding": "UTF-8",
-						"line_ending": "Windows",
-						"name": "1qq"
-					}
-				},
-				{
-					"contents": "{\n\t/**\n\t\tCompletion Options\n\t**/\n\n\t// turns all completion help off\n\t\"disable_all_completions\": false,\n\t// turns off completions for indexed directives\n\t\"disable_indexed_directive_completions\": false,\n\t// turns off completions for directives isolate attributes\n\t\"disable_indexed_isolate_completions\": false,\n\t// turns off default completions\n\t\"disable_default_directive_completions\": false,\n\t// turns off default element completions\n\t\"disable_default_element_completions\": false,\n\t// turns off the js completions\n\t\"disable_default_js_completions\": false,\n\n\t// flag to add the `data-` prefix to the completions\n\t\"enable_data_prefix\": false,\n\t// flag to add AngularUI directives to completion list\n\n\t// Scope triggers\n\t\"js_scope\": \"source.js - string.quoted - comment - meta.brace.square\",\n\t\"filter_scope\": \"text.html string.quoted\",\n\n\t// Avoid prefixes (add chars that you want to prevent completion triggers)\n\t\"js_prefixes\": [\",\"],\n    \n\n\t/**\n\t\tIndexing Options\n\t**/\n\n\t// AngularJS definitions to search for\n\t\"match_definitions\": [\"constant\", \"controller\", \"directive\", \"factory\", \"filter\", \"module\", \"service\", \"value\"],\n\t// directories you wish to ignore within your current working directory\n\t\"exclude_dirs\":[\n\t\t\"node_modules/\"\n\t],\n\t// file suffixes to ignore (uses string.endswith(...))\n\t\"exclude_file_suffixes\":[\n\t\t\"angular.js\",\n\t\t\"min.js\"\n\t],\n\n\n\t/**\n\t\tQuick Panel Options\n\t**/\n\n\t// Shows preview of file where currently highlighted definition is\n\t// (Only works in Sublime Text 3)\n\t\"show_file_preview\": true,\n\n\n\t/**\n\t\tDefinition Lookup Options\n\t**/\n\n\t// Characters considered to separate directives (words)\n\t// this is a modified version of what Sublime Text uses by default\n\t// It's modified to allow for - to be considered part of a word\n\t// for cases such as my-new-directive\n\t\"non_word_chars\": \"[\\\\./\\\\\\\\(\\\\)\\\"':,;<>~!@#\\\\$%\\\\^&\\\\*\\\\|\\\\+=\\\\[\\\\]{}`~\\\\? ]\",\n\n\n\n\n\t/**\n\t\tAdvanced Options (adjusting these could break the plugin)\n\t**/\n\n\n\t// {0} is the location of where the definition name will be inserted\n\t// ex: directive\n\t\"match_expression\": \"((^[ \\\\\\\\t]*\\\\.{0}|^[ \\\\\\\\t]*{0}|angular\\\\.{0}|\\\\)\\\\.{0}|app\\\\.{0})[ ]*\\\\([ ]*[\\\"\\\\'])([\\\\w\\\\.\\\\$]*)([\\\"\\\\'])\",\n\n\t// what group to expect the name in\n\t// ex: module('myApp')\n\t// myApp is currently in group 3 of the current 'match_expression'\n\t\"match_expression_group\": 3,\n\n\t// Good for debugging if you're wanting to modify the scope options below\n\t// prints scopes to the console on each on_query_completion event\n\t\"show_current_scope\": false,\n\n\t\n\n\n\t/** ::NOTICE::\n\t\tDeprecating the scope options since they will most likely\n\t\tbreak functionality with the new features that have been added.\n\t**/\n\n\n\t//indexing your project should get you more updated completions\n\t\"enable_AngularUI_directives\": false,\n\n\t// set to true to only show completions when ALL scopes are matched\n\t\"ensure_all_scopes_are_matched\": false,\n\n\t// defines what scopes to show completions in based on cursor placement in current buffer\n\t\"attribute_defined_scopes\": [\n\t\t\"text.html meta.tag punctuation.definition.tag\",\n\t\t\"entity.other.attribute-name.html\",\n\t\t\"attibutes.tag.jade\",\n\t\t\"meta.section.attributes.haml\",\n\t\t\"text.html meta.tag.inline\",\n\t\t\"text.html.basic meta.tag.block.any.html\"\n\t],\n\n\t// defines a list of scopes that will should be avoided\n\t// such as no completions within double quotes\n\t\"attribute_avoided_scopes\": [\n\t\t\"string.quoted.double.html\",\n\t\t\"source.css\"\n\t],\n\n\t// defines what scopes component completions reside in\n\t\"component_defined_scopes\": [\n\t\t\"text.html.basic - source.php.embedded.block.html\",\n\t\t// Allows completions when in partial HTML files\n\t\t\"text.html.basic invalid.illegal.bad-angle-bracket.html\",\n\t\t\"source.jade\",\n\t\t\"text.haml\"\n\t]\n}",
-					"file": "/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
-					"file_size": -1,
-					"file_write_time": -1,
-					"settings":
-					{
-						"buffer_size": 3690,
-						"line_ending": "Windows",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"contents": "{\n\t/**\n\t\tPredefined completions\n\t**/\n\n\t// Here you can add in your custom angular attributes.\n\t// Just override this default property in the 'User' settings.\n\t\"extended_attribute_list\":[],\n\n\t// here you can add to, adjust, or remove the default AngularJS element completions\n\t\"angular_elements\":[\n\t\t[\n\t\t\t\"ng-include\\tAngularJS\",\n\t\t\t\"ng-include src=\\\"$1\\\"${2: scope=\\\"$3\\\"}${4: onload=\\\"$5\\\"}></ng-include>\"\n\t\t],\n\t\t[\n\t\t\t\"ng-pluralize\\tAngularJS\",\n\t\t\t\"ng-pluralize count=\\\"${1:string}\\\" when=\\\"$2\\\" offset=\\\"$4\\\"></ng-pluralize>\"\n\t\t],\n\t\t[\n\t\t\t\"ng-select\\tAngularJS\",\n\t\t\t\"select ngModel=\\\"${1:string}\\\"${2:${3: name=\\\"${4:string}\\\"}${5: required}${6: ngRequired=\\\"${7:string}\\\"}${8: ngOptions=\\\"${9:comprehension_expression}\\\"}}>$10</select>$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-template\\tAngularJS\",\n\t\t\t\"script type=\\\"text/ng-template\\\"${1: id=\\\"$2\\\"}>$0</script>\"\n\t\t],\n\t\t[\n\t\t\t\"ng-textarea\\tAngularJS\",\n\t\t\t\"textarea ngModel=\\\"${1:string}\\\"${2:${3: name=\\\"${4:string}\\\"}${5: required}${6: ngRequired=\\\"${7:string}\\\"}${8: ngMinlength=\\\"${9:number}\\\"}${10: ngMaxlength=\\\"${11:number}\\\"}${12: ngPattern=\\\"${13:string}\\\"}${14: ngChange=\\\"${15:string}\\\"}}>$16</textarea>$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-view\\tAngularJS\",\n\t\t\t\"ng-view></ng-view>\"\n\t\t]\n\t],\n\n\t// List of default filters provided by angular\n\t\"filter_list\":[\n\t\t[\n\t\t\t\"filter: currency\\tAngularJS\",\n\t\t\t\"currency${1::symbol}\"\n\t\t],\n\t\t[\n\t\t\t\"filter: date\\tAngularJS\",\n\t\t\t\"date${1::format}\"\n\t\t],\n\t\t[\n\t\t\t\"filter: filter\\tAngularJS\",\n\t\t\t\"filter:${1:model}\"\n\t\t],\n\t\t[\n\t\t\t\"filter: json\\tAngularJS\",\n\t\t\t\"json\"\n\t\t],\n\t\t[\n\t\t\t\"filter: limitTo\\tAngularJS\",\n\t\t\t\"limitTo:${1:limit}\"\n\t\t],\n\t\t[\n\t\t\t\"filter: lowercase\\tAngularJS\",\n\t\t\t\"lowercase\"\n\t\t],\n\t\t[\n\t\t\t\"filter: number\\tAngularJS\",\n\t\t\t\"number${1::fraction}\"\n\t\t],\n\t\t[\n\t\t\t\"filter: orderBy\\tAngularJS\",\n\t\t\t\"orderBy:${1:predicate}${2::reverse}\"\n\t\t],\n\t\t[\n\t\t\t\"filter: uppercase\\tAngularJS\",\n\t\t\t\"uppercase\"\n\t\t]\n\t],\n\n\t// You can copy/paste this property list over to 'User' settings\n\t// and override them if you wish.\n\t\"core_attribute_list\": [\n\t\t[\n\t\t\t\"ng-app\\tAngularJS\",\n\t\t\t\"ng-app=\\\"${1:string}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-bind\\tAngularJS\",\n\t\t\t\"ng-bind=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-bind-html\\tAngularJS\",\n\t\t\t\"ng-bind-html=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-bind-html-unsafe\\tAngularJS\",\n\t\t\t\"ng-bind-html-unsafe=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-bind-template\\tAngularJS\",\n\t\t\t\"ng-bind-template=\\\"${1:string}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-blur\\tAngularJS\",\n\t\t\t\"ng-blur=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-change\\tAngularJS\",\n\t\t\t\"ng-change=\\\"${1:function()}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-checked\\tAngularJS\",\n\t\t\t\"ng-checked=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-class\\tAngularJS\",\n\t\t\t\"ng-class=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-class-even\\tAngularJS\",\n\t\t\t\"ng-class-even=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-class-odd\\tAngularJS\",\n\t\t\t\"ng-class-odd=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-click\\tAngularJS\",\n\t\t\t\"ng-click=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-cloak\\tAngularJS\",\n\t\t\t\"ng-cloak$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-controller\\tAngularJS\",\n\t\t\t\"ng-controller=\\\"$1\\\"$2\"\n\t\t],\n\t\t[\n\t\t\t\"ng-copy\\tAngularJS\",\n\t\t\t\"ng-copy=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-csp\\tAngularJS\",\n\t\t\t\"ng-csp$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-cut\\tAngularJS\",\n\t\t\t\"ng-cut=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-dblclick\\tAngularJS\",\n\t\t\t\"ng-dblclick=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-disabled\\tAngularJS\",\n\t\t\t\"ng-disabled=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-focus\\tAngularJS\",\n\t\t\t\"ng-focus=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-form\\tAngularJS\",\n\t\t\t\"ng-form name=\\\"${1:string}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-hide\\tAngularJS\",\n\t\t\t\"ng-hide=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-href\\tAngularJS\",\n\t\t\t\"ng-href=\\\"${1:template}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-if\\tAngularJS\",\n\t\t\t\"ng-if=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-include\\tAngularJS\",\n\t\t\t\"ng-include=\\\"${1:string}\\\" ${2:scope=\\\"$3\\\"} ${4:onload=\\\"$5\\\"}\"\n\t\t],\n\t\t[\n\t\t\t\"ng-init\\tAngularJS\",\n\t\t\t\"ng-init=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-keydown\\tAngularJS\",\n\t\t\t\"ng-keydown=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-keypress\\tAngularJS\",\n\t\t\t\"ng-keypress=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-keyup\\tAngularJS\",\n\t\t\t\"ng-keyup=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-list\\tAngularJS\",\n\t\t\t\"ng-list=\\\"${1:string}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-model\\tAngularJS\",\n\t\t\t\"ng-model$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-mousedown\\tAngularJS\",\n\t\t\t\"ng-mousedown=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-mouseenter\\tAngularJS\",\n\t\t\t\"ng-mouseenter=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-mouseleave\\tAngularJS\",\n\t\t\t\"ng-mouseleave=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-mousemove\\tAngularJS\",\n\t\t\t\"ng-mousemove=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-mouseover\\tAngularJS\",\n\t\t\t\"ng-mouseover=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-mouseup\\tAngularJS\",\n\t\t\t\"ng-mouseup=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-multiple\\tAngularJS\",\n\t\t\t\"ng-multiple=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-non-bindable\\tAngularJS\",\n\t\t\t\"ng-non-bindable$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-open\\tAngularJS\",\n\t\t\t\"ng-open=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-paste\\tAngularJS\",\n\t\t\t\"ng-paste=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-options\\tAngularJS\",\n\t\t\t\"ng-options=\\\"${1:select} as ${2:label} for ${3:value} in ${4:array}\\\"\"\n\t\t],\n\t\t[\n\t\t\t\"ng-pluralize\\tAngularJS\",\n\t\t\t\"ng-pluralize count=\\\"${1:string}\\\" when=\\\"$2\\\" offset=\\\"$4\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-readonly\\tAngularJS\",\n\t\t\t\"ng-readonly=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-repeat\\tAngularJS\",\n\t\t\t\"ng-repeat=\\\"${1:(${2:key}, ${3:value})} in ${4:dataset}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-repeat-end\\tAngularJS\",\n\t\t\t\"ng-repeat-end$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-repeat-start\\tAngularJS\",\n\t\t\t\"ng-repeat-start=\\\"${1:(${2:key}, ${3:value})} in ${4:dataset}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-selected\\tAngularJS\",\n\t\t\t\"ng-selected=\\\"${1:string}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-show\\tAngularJS\",\n\t\t\t\"ng-show=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-src\\tAngularJS\",\n\t\t\t\"ng-src=\\\"${1:template}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-srcset\\tAngularJS\",\n\t\t\t\"ng-srcset=\\\"${1:template}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-style\\tAngularJS\",\n\t\t\t\"ng-style=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-submit\\tAngularJS\",\n\t\t\t\"ng-submit=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-swipe-left\\tAngularJS\",\n\t\t\t\"ng-swipe-left=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-swipe-right\\tAngularJS\",\n\t\t\t\"ng-swipe-right=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-switch\\tAngularJS\",\n\t\t\t\"ng-switch on=\\\"${1:expression}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-switch-when\\tAngularJS\",\n\t\t\t\"ng-switch-when=\\\"${1:string}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-switch-default\\tAngularJS\",\n\t\t\t\"ng-switch-default$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-transclude\\tAngularJS\",\n\t\t\t\"ng-transclude$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-trim\\tAngularJS\",\n\t\t\t\"ng-trim$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-value\\tAngularJS\",\n\t\t\t\"ng-value=\\\"${1:string}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ng-view\\tAngularJS\",\n\t\t\t\"ng-view$0\"\n\t\t]\n\t],\n\n\t\"AngularUI_attribute_list\": [\n\t\t[\n\t\t\t\"ui-jq\\tjQuery Passthrough\\tAUI\",\n\t\t\t\"ui-jq=\\\"${1:string}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-options\\tUI Options\\tAUI\",\n\t\t\t\"ui-options=\\\"${1:string}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-codemirror\\tCodeMirror\\tAUI\",\n\t\t\t\"ui-codemirror=\\\"${1:{theme:'${2:monokai}'\\\\}}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-event\\tEvent Binder\\tAUI\",\n\t\t\t\"ui-event=\\\"{${1:event}:'${2:function()}'}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-calendar\\tCalendar\\tAUI\",\n\t\t\t\"ui-calendar=\\\"{${1:height: 450, editable: true}}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-map\\tGoogle Maps\\tAUI\",\n\t\t\t\"ui-map=\\\"${1:myMap}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-map-marker\\tGoogle Maps\\tAUI\",\n\t\t\t\"ui-map-marker=\\\"${1:myMarkers}[\\\\$index]\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-map-info-window\\tGoogle Maps\\tAUI\",\n\t\t\t\"ui-map-info-window=\\\"${1:myInfoWindow}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-date\\tDate\\tAUI\",\n\t\t\t\"ui-date$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-keypress\\tKeypress\\tAUI\",\n\t\t\t\"ui-keypress=\\\"{${1:key identifier}:'${2:keypressCallback}(\\\\$event)'}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-keydown\\tKeypress\\tAUI\",\n\t\t\t\"ui-keydown=\\\"{${1:key identifier}:'${2:keypressCallback}(\\\\$event)'}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-keyup\\tKeypress\\tAUI\",\n\t\t\t\"ui-keyup=\\\"{${1:key identifier}:'${2:keypressCallback}(\\\\$event)'}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-mask\\tUI Options\\tAUI\",\n\t\t\t\"ui-mask=\\\"'${1:99-99-9999}'\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-if\\tIf\\tAUI\",\n\t\t\t\"ui-if=\\\"${1:false}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-reset\\tReset\\tAUI\",\n\t\t\t\"ui-reset${1:=\\\" '${2:Empty}' \\\"}$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-animate\\tAnimate\\tAUI\",\n\t\t\t\"ui-animate$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-scrollfix\\tScrollfix\\tAUI\",\n\t\t\t\"ui-scrollfix${1:=\\\"${2:number}\\\"}$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-select2\\tSelect2\\tAUI\",\n\t\t\t\"ui-select2$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-show\\tShow/Hide/Toggle\\tAUI\",\n\t\t\t\"ui-show=\\\"${1:showHide}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-hide\\tShow/Hide/Toggle\\tAUI\",\n\t\t\t\"ui-hide=\\\"${1:showHide}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-toggle\\tShow/Hide/Toggle\\tAUI\",\n\t\t\t\"ui-toggle=\\\"${1:showHide}\\\"$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-tinymce\\tTinyMCE\\tAUI\",\n\t\t\t\"ui-tinymce$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-sortable\\tSortable\\tAUI\",\n\t\t\t\"ui-sortable${1:=\\\"{${2:connectWith}:'${3:.children}'\\\\}\\\"}$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-currency\\tCurrency\\tAUI\",\n\t\t\t\"ui-currency${1:=\\\"{symbol:'${2:\\\\$}'${3:, zero: '${4:my-zero-class}'}\\\\}\\\"}$0\"\n\t\t],\n\t\t[\n\t\t\t\"ui-route\\tRoute Checking\\tAUI\",\n\t\t\t\"ui-route=\\\"${1:#}/${2:route-path}\\\"$0\"\n\t\t]\n\t]\n}\n",
-					"file": "/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
-					"file_size": -1,
-					"file_write_time": -1,
-					"settings":
-					{
-						"buffer_size": 8756,
-						"line_ending": "Windows",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"contents": "{\n\t\"js_completions\": [\n\t\t[\"angular\\tAngularJS\", \"angular\"],\n\t\t[\"$animate\\tAngularJS\", \"\\\\$animate\"],\n\t\t[\"$animateProvider\\tAngularJS\", \"\\\\$animateProvider\"],\n\t\t[\"$cacheFactory\\tAngularJS\", \"\\\\$cacheFactory(${1:cacheId}${2:, ${3:options}})\"],\n\t\t[\"$compile\\tAngularJS\", \"\\\\$compile(${1:element}, ${2:transclude}, ${3:maxPriority})\"],\n\t\t[\"$compileProvider\\tAngularJS\", \"\\\\$compileProvider\"],\n\t\t[\"$controller\\tAngularJS\", \"\\\\$controller(${1:constructor}, ${2:locals})\"],\n\t\t[\"$controllerProvider\\tAngularJS\", \"\\\\$controllerProvider\"],\n\t\t[\"$exceptionHandler\\tAngularJS\", \"\\\\$exceptionHandler(${1:exception}${2:, ${3:cause}})\"],\n\t\t[\"$exceptionHandlerProvider\\tAngularJS\", \"\\\\$exceptionHandlerProvider\"],\n\t\t[\"$filter\\tAngularJS\", \"\\\\$filter(${1:name})\"],\n\t\t[\"$filterProvider\\tAngularJS\", \"\\\\$filterProvider\"],\n\t\t[\"$http\\tAngularJS\", \"\\\\$http\"],\n\t\t[\"$httpBackend\\tAngularJS\", \"\\\\$httpBackend\"],\n\t\t[\"$injector\\tAngularJS\", \"\\\\$injector\"],\n\t\t[\"$interpolate\\tAngularJS\", \"\\\\$interpolate(${1:text}${2:, ${3:mustHaveExpression}${4:, ${5:trustedContext}}})\"],\n\t\t[\"$interpolateProvider\\tAngularJS\", \"\\\\$interpolateProvider\"],\n\t\t[\"$interval\\tAngularJS\", \"\\\\$interval\"],\n\t\t[\"$locale\\tAngularJS\", \"\\\\$locale\"],\n\t\t[\"$location\\tAngularJS\", \"\\\\$location\"],\n\t\t[\"$locationProvider\\tAngularJS\", \"\\\\$locationProvider\"],\n\t\t[\"$log\\tAngularJS\", \"\\\\$log\"],\n\t\t[\"$logProvider\\tAngularJS\", \"\\\\$logProvider\"],\n\t\t[\"$parse\\tAngularJS\", \"\\\\$parse(${1:expression})\"],\n\t\t[\"$parseProvider\\tAngularJS\", \"\\\\$parseProvider\"],\n\t\t[\"$provide\\tAngularJS\", \"\\\\$provide\"],\n\t\t[\"$q\\tAngularJS\", \"\\\\$q\"],\n\t\t[\"$rootElement\\tAngularJS\", \"\\\\$rootElement\"],\n\t\t[\"$rootScope\\tAngularJS\", \"\\\\$rootScope\"],\n\t\t[\"$rootScopeProvider\\tAngularJS\", \"\\\\$rootScopeProvider\"],\n\t\t[\"$sce\\tAngularJS\", \"\\\\$sce\"],\n\t\t[\"$sceDelegate\\tAngularJS\", \"\\\\$sceDelegate\"],\n\t\t[\"$sceDelegateProvider\\tAngularJS\", \"\\\\$sceDelegateProvider\"],\n\t\t[\"$sceProvider\\tAngularJS\", \"\\\\$sceProvider\"],\n\t\t[\"$scope\\tAngularJS\", \"\\\\$scope\"],\n\t\t[\"$templateCache\\tAngularJS\", \"\\\\$templateCache\"],\n\t\t[\"$timeout\\tAngularJS\", \"\\\\$timeout\"],\n\t\t[\"$window\\tAngularJS\", \"\\\\$window\"],\n\n\t\t[\"$cookies\\tAngularJS\", \"\\\\$cookies\"],\n\t\t[\"$cookieStore\\tAngularJS\", \"\\\\$cookieStore\"],\n\n\t\t[\"$resource\\tAngularJS\", \"\\\\$resource(${1:url}${2:, ${3:paramDefaults}${4:, ${5:actions}}})\"],\n\n\t\t[\"$route\\tAngularJS\", \"\\\\$route\"],\n\t\t[\"$routeParams\\tAngularJS\", \"\\\\$routeParams\"],\n\t\t[\"$routeProvider\\tAngularJS\", \"\\\\$routeProvider\"],\n\n\t\t[\"$sanitize\\tAngularJS\", \"\\\\$sanitize(${1:html})\"],\n\n\t\t[\"$swipe\\tAngularJS\", \"\\\\$swipe\"],\n\t\t\n\t\t[\"verbose_$http\\tAngularJS\", \"\\\\$http('${1:GET|POST|PUT|DELETE}', ${2:url}${3:, ${4:post}}, ${5:function(status, response){\\n\\t${6:// success}\\n}}${7:, function(status, response){\\n\\t${8:// error}\\n}});\"],\n\t\t[\"verbose_$filter\\tAngularJS\", \"\\\\$filter('${1:currency|date|filter|json|limitTo|linky|lowercase|number|orderBy|uppercase}')(${2:array}${3:, ${4:expression}});\"],\n\t\t[\"verbose_$interval\\tAngularJS\", \"\\\\$interval(${1:fn}${2:, ${3:delay}${4:, ${5:count}}${6:, ${7:invokeApply}}})\"],\n\t\t[\"verbose_$timeout\\tAngularJS\", \"\\\\$timeout(${1:function()\\\\{\\n\\t$2\\n\\\\}}, ${3:delay});\"],\n\t\t[\"verbose_directive\\tAngularJS\", \"directive('$1', [${3:'$4', }function($4){\\n\\t${5:// Runs during compile}\\n\\treturn {\\n\\t\\t// name: '',\\n\\t\\t// priority: 1,\\n\\t\\t// terminal: true,\\n\\t\\t// scope: {}, // {} = isolate, true = child, false/undefined = no change\\n\\t\\t// controller: function(\\\\$scope, \\\\$element, \\\\$attrs, \\\\$transclude) {},\\n\\t\\t// require: 'ngModel', // Array = multiple requires, ? = optional, ^ = check parent elements\\n\\t\\t// restrict: 'A', // E = Element, A = Attribute, C = Class, M = Comment\\n\\t\\t// template: '',\\n\\t\\t// templateUrl: '',\\n\\t\\t// replace: true,\\n\\t\\t// transclude: true,\\n\\t\\t// compile: function(tElement, tAttrs, function transclude(function(scope, cloneLinkingFn){ return function linking(scope, elm, attrs){}})),\\n\\t\\tlink: function(\\\\$scope, iElm, iAttrs, controller) {\\n\\t\\t\\t$0\\n\\t\\t}\\n\\t};\\n}]);\"],\n\t\t[\"verbose_module\\tAngularJS\", \"/**\\n* $1 Module\\n*\\n* ${2:Description}\\n*/\\nangular.module('$1', [$3]).$0\"],\n\n\t\t[\"config\\tAngularJS\", \"config([${1:'$2',}function($2) {\\n\\t$3\\n}])\"],\n\t\t[\"constant\\tAngularJS\", \"constant('${1:name}', ${2:value})\"],\n\t\t[\"controller\\tAngularJS\", \"controller('${1:name}', [${2:'$3', }function($3){\\n\\t$4\\n}])\"],\n\t\t[\"factory\\tAngularJS\", \"factory('${1:name}', [${2:'$3', }function($3){\\n\\treturn function ${4:name}(){\\n\\t\\t$5\\n\\t};\\n}])\"],\n\t\t[\"run\\tAngularJS\", \"run('${1:name}', [${2:'$3', }function($3){\\n\\t$4\\n}])\"],\n\t\t[\"service\\tAngularJS\", \"service('${1:name}', [${2:'$3', }function($3){\\n\\t$4\\n}])\"],\n\t\t[\"value\\tAngularJS\", \"value('${1:name}', ${2:value})\"]\n\t],\n\t\"angular\": [\n\t\t[\"bind\\tAngularJS\", \"bind(${1:self}, ${2:fn}, ${3:args})\"],\n\t\t[\"bootstrap\\tAngularJS\", \"bootstrap(${1:element}${2:, ${3:modules}})\"],\n\t\t[\"copy\\tAngularJS\", \"copy(${1:source}${2:, ${3:destination}})\"],\n\t\t[\"element\\tAngularJS\", \"element(${1:element});\"],\n\t\t[\"equals\\tAngularJS\", \"equals(${1:object1}, ${2:object2});\"],\n\t\t[\"extend\\tAngularJS\", \"extend(${1:destinationObject}, ${2:sourceObject})\"],\n\t\t[\"forEach\\tAngularJS\", \"forEach(${1:values}, function(${2:value}, ${3:key}){\\n\\t$0\\n});\"],\n\t\t[\"fromJson\\tAngularJS\", \"fromJson(${1:json})\"],\n\t\t[\"identity\\tAngularJS\", \"identity()\"],\n\t\t[\"injector\\tAngularJS\", \"injector(${1:modules})\"],\n\t\t[\"isArray\\tAngularJS\", \"isArray(${1:value})\"],\n\t\t[\"isDate\\tAngularJS\", \"isDate(${1:value})\"],\n\t\t[\"isDefined\\tAngularJS\", \"isDefined(${1:value})\"],\n\t\t[\"isElement\\tAngularJS\", \"isElement(${1:value})\"],\n\t\t[\"isFunction\\tAngularJS\", \"isFunction(${1:value})\"],\n\t\t[\"isNumber\\tAngularJS\", \"isNumber(${1:value})\"],\n\t\t[\"isObject\\tAngularJS\", \"isObject(${1:value})\"],\n\t\t[\"isString\\tAngularJS\", \"isString(${1:value})\"],\n\t\t[\"isUndefined\\tAngularJS\", \"isUndefined(${1:value})\"],\n\t\t[\"lowercase\\tAngularJS\", \"lowercase(${1:string});\"],\n\t\t[\"mock\\tAngularJS\", \"mock\"],\n\t\t[\"module\\tAngularJS\", \"module('$1', [$2])\"],\n\t\t[\"noop\\tAngularJS\", \"noop\"],\n\t\t[\"toJson\\tAngularJS\", \"toJson(${1})\"],\n\t\t[\"uppercase\\tAngularJS\", \"uppercase(${1:string});\"],\n\t\t[\"version\\tAngularJS\", \"version\"]\n\t],\n\t\"$animate\": [\n\t\t[\"addClass\\tAngularJS\", \"addClass(${1:element}, ${2:className}, ${3:done})\"],\n\t\t[\"enter\\tAngularJS\", \"enter(${1:element}, ${2:parent}, ${3:after}, ${4:done})\"],\n\t\t[\"leave\\tAngularJS\", \"leave(${1:element}, ${2:done})\"],\n\t\t[\"move\\tAngularJS\", \"move(${1:element}, ${2:parent}, ${3:after}, ${4:done})\"],\n\t\t[\"removeClass\\tAngularJS\", \"removeClass(${1:element}, ${2:className}, ${3:done})\"]\n\t],\n\t\"$animateProvider\": [\n\t\t[\"classNameFilter\\tAngularJS\", \"classNameFilter(${1:expression})\"],\n\t\t[\"register\\tAngularJS\", \"register(${1:name}, ${2:factory})\"]\n\t],\n\t\"$compileProvider\": [\n\t\t[\"aHrefSanitizationWhitelist\\tAngularJS\", \"aHrefSanitizationWhitelist(${1:regexp})\"],\n\t\t[\"directive\\tAngularJS\", \"directive(${1:name}${2:, ${3:directiveFactory}})\"],\n\t\t[\"imgSrcSanitizationWhitelist\\tAngularJS\", \"imgSrcSanitizationWhitelist(${1:regexp})\"]\n\t],\n\t\"$controllerProvider\": [\n\t\t[\"register\\tAngularJS\", \"register(${1:name}${2:, ${3:constructor}})\"]\n\t],\n\t\"$exceptionHandlerProvider\": [\n\t\t[\"mode\\tAngularJS (M)\", \"mode(${1:mode})\"]\n\t],\n\t\"$filterProvider\": [\n\t\t[\"register\\tAngularJS\", \"register(${1:name}, ${2:fn})\"]\n\t],\n\t\"$http\": [\n\t\t[\"delete\\tAngularJS\", \"delete(${1:url}${2:, ${3:config}})\"],\n\t\t[\"get\\tAngularJS\", \"get(${1:url}${2:, ${3:config}})\"],\n\t\t[\"head\\tAngularJS\", \"head(${1:url}${2:, ${3:config}})\"],\n\t\t[\"jsonp\\tAngularJS\", \"jsonp(${1:url}${2:, ${3:config}})\"],\n\t\t[\"post\\tAngularJS\", \"post(${1:url}, ${2:data}${3:, ${4:config}})\"],\n\t\t[\"put\\tAngularJS\", \"put(${1:url}, ${2:data}${3:, ${4:config}})\"],\n\t\t[\"defaults\\tAngularJS\", \"defaults\"],\n\t\t[\"pendingRequests\\tAngularJS\", \"pendingRequests\"]\n\t],\n\t\"$httpBackend\": [\n\t\t[\"expect\\tAngularJS (M)\", \"expect(${1:method}, ${2:url}${3:, ${4:data}${5:, ${6:headers}}})\"],\n\t\t[\"expectDELETE\\tAngularJS (M)\", \"expectDELETE(${1:url}${2:, ${3:headers}})\"],\n\t\t[\"expectGET\\tAngularJS (M)\", \"expectGET(${1:url}${2:, ${3:headers}})\"],\n\t\t[\"expectHEAD\\tAngularJS (M)\", \"expectHEAD(${1:url}${2:, ${3:headers}})\"],\n\t\t[\"expectJSONP\\tAngularJS (M)\", \"expectJSONP(url)\"],\n\t\t[\"expectPATCH\\tAngularJS (M)\", \"expectPATCH(${1:url}${2:, ${3:data}${4:, ${5:headers}}})\"],\n\t\t[\"expectPOST\\tAngularJS (M)\", \"expectPOST(${1:url}${2:, ${3:data}${4:, ${5:headers}}})\"],\n\t\t[\"expectPUT\\tAngularJS (M)\", \"expectPUT(${1:url}${2:, ${3:data}${4:, ${5:headers}}})\"],\n\t\t[\"flush\\tAngularJS (M)\", \"flush(${1:count})\"],\n\t\t[\"resetExpectations\\tAngularJS (M)\", \"resetExpectations()\"],\n\t\t[\"verifyNoOutstandingExpectation\\tAngularJS (M)\", \"verifyNoOutstandingExpectation()\"],\n\t\t[\"verifyNoOutstandingRequest\\tAngularJS (M)\", \"verifyNoOutstandingRequest()\"],\n\t\t[\"when\\tAngularJS (M/E2E)\", \"when(${1:method}, ${2:url}${3:, ${4:data}${5:, ${6:headers}}})\"],\n\t\t[\"whenDELETE\\tAngularJS (M/E2E)\", \"whenDELETE(${1:url}${2:, ${3:headers}})\"],\n\t\t[\"whenGET\\tAngularJS (M/E2E)\", \"whenGET(${1:url}${2:, ${3:headers}})\"],\n\t\t[\"whenHEAD\\tAngularJS (M/E2E)\", \"whenHEAD(${1:url}${2:, ${3:headers}})\"],\n\t\t[\"whenJSONP\\tAngularJS (M/E2E)\", \"whenJSONP(url)\"],\n\t\t[\"whenPOST\\tAngularJS (M/E2E)\", \"whenPOST(${1:url}${2:, ${3:data}${4:, ${5:headers}}})\"],\n\t\t[\"whenPUT\\tAngularJS (M/E2E)\", \"whenPUT(${1:url}${2:, ${3:data}${4:, ${5:headers}}})\"]\n\t],\n\t\"$injector\": [\n\t\t[\"annotate\\tAngularJS\", \"annotate(${1:fn})\"],\n\t\t[\"get\\tAngularJS\", \"get(${1:name})\"],\n\t\t[\"has\\tAngularJS\", \"has(${1:name})\"],\n\t\t[\"instantiate\\tAngularJS\", \"instantiate(${1:Type}${2:, ${3:locals}})\"],\n\t\t[\"invoke\\tAngularJS\", \"invoke(${1:fn}${2:, ${3:self}${4:, ${5:locals}}})\"]\n\t],\n\t\"$interpolateProvider\": [\n\t\t[\"endSymbol\\tAngularJS\", \"endSymbol(${1:value})\"],\n\t\t[\"startSymbol\\tAngularJS\", \"startSymbol(${1:value})\"]\n\t],\n\t\"$interval\": [\n\t\t[\"cancel\\tAngularJS\", \"cancel(${1:promise})\"],\n\t\t[\"flush\\tAngularJS (M)\", \"flush(${1:millis})\"]\n\t],\n\t\"$locale\": [\n\t\t[\"id\\tAngularJS\", \"id\"]\n\t],\n\t\"$location\": [\n\t\t[\"absUrl\\tAngularJS\", \"absUrl()\"],\n\t\t[\"hash\\tAngularJS\", \"hash(${1:hash})\"],\n\t\t[\"host\\tAngularJS\", \"host()\"],\n\t\t[\"path\\tAngularJS\", \"path(${1:path})\"],\n\t\t[\"port\\tAngularJS\", \"port()\"],\n\t\t[\"protocol\\tAngularJS\", \"protocol()\"],\n\t\t[\"replace\\tAngularJS\", \"replace()\"],\n\t\t[\"search\\tAngularJS\", \"search(${1:search}${2:, ${3:paramValue}})\"],\n\t\t[\"url\\tAngularJS\", \"url(${1:${2:url}${3:, ${4:replace}}})\"]\n\t],\n\t\"$locationProvider\": [\n\t\t[\"hashPrefix\\tAngularJS\", \"hashPrefix(${1:prefix})\"],\n\t\t[\"html5Mode\\tAngularJS\", \"html5Mode(${1:true})\"]\n\t],\n\t\"$log\": [\n\t\t[\"debug\\tAngularJS\", \"debug()\"],\n\t\t[\"error\\tAngularJS\", \"error()\"],\n\t\t[\"info\\tAngularJS\", \"info()\"],\n\t\t[\"log\\tAngularJS\", \"log()\"],\n\t\t[\"warn\\tAngularJS\", \"warn()\"],\n\t\t[\"assertEmpty\\tAngularJS (M)\", \"assertEmpty()\"],\n\t\t[\"reset\\tAngularJS (M)\", \"reset()\"]\n\t],\n\t\"$logProvider\": [\n\t\t[\"debugEnabled\\tAngularJS\", \"debugEnabled(${1:true})\"]\n\t],\n\t\"$parseProvider\": [\n\t\t[\"logPromiseWarnings\\tAngularJS\", \"logPromiseWarnings(${1:false})\"],\n\t\t[\"unwrapPromises\\tAngularJS\", \"unwrapPromises(${1:true})\"]\n\t],\n\t\"$provide\": [\n\t\t[\"constant\\tAngularJS\", \"constant(${1:name}, ${2:value})\"],\n\t\t[\"decorator\\tAngularJS\", \"decorator(${1:name}, ['\\\\$delegate', function(\\\\$delegate){\\n\\t$2\\n\\treturn \\\\$delegate\\n}])\"],\n\t\t[\"factory\\tAngularJS\", \"factory(${1:name}, [${2:'$3', }function($3){\\n\\treturn function ${4:name}(){\\n\\t\\t$5\\n\\t};\\n}])\"],\n\t\t[\"provider\\tAngularJS\", \"provider(${1:name}, ${2:provider})\"],\n\t\t[\"service\\tAngularJS\", \"service(${1:name}, ${2:constructor})\"],\n\t\t[\"value\\tAngularJS\", \"value(${1:name}, ${2:value})\"]\n\n\t],\n\t\"$q\": [\n\t\t[\"all\\tAngularJS\", \"all(${1:promises})\"],\n\t\t[\"defer\\tAngularJS\", \"defer()\"],\n\t\t[\"reject\\tAngularJS\", \"reject(${1:reason})\"],\n\t\t[\"when\\tAngularJS\", \"when(${1:value})\"]\n\t],\n\t\"$rootScope\": \"_scopes\",\n\t\"$scope\": \"_scopes\",\n\t\"_scopes\": [\n\t\t[\"$apply\\tAngularJS\", \"\\\\$apply(${1:exp})\"],\n\t\t[\"$broadcast\\tAngularJS\", \"\\\\$broadcast(${1:name}, ${2:args})\"],\n\t\t[\"$destroy\\tAngularJS\", \"\\\\$destroy()\"],\n\t\t[\"$digest\\tAngularJS\", \"\\\\$digest()\"],\n\t\t[\"$emit\\tAngularJS\", \"\\\\$emit(${1:name}, ${2:args})\"],\n\t\t[\"$eval\\tAngularJS\", \"\\\\$eval(${1:${2:expression}${3:, ${4:locals}}})\"],\n\t\t[\"$evalAsync\\tAngularJS\", \"\\\\$evalAsync(${1:expression})\"],\n\t\t[\"$new\\tAngularJS\", \"\\\\$new(${1:isolate})\"],\n\t\t[\"$on\\tAngularJS\", \"\\\\$on('${1:name}', ${2:function(){$3}});\"],\n\t\t[\"$parent\\tAngularJS\", \"\\\\$parent.\"],\n\t\t[\"$root\\tAngularJS\", \"\\\\$root.\"],\n\t\t[\"$watch\\tAngularJS\", \"\\\\$watch('${1:watchExpression}', function(newValue, oldValue, scope) {\\n\\t$2\\n}${3:, ${4:objectEquality}});\"],\n\t\t// [\"$watch\\tAngularJS\", \"\\\\$watch(${1:watchExpression}${2:, ${3:listener}${4:, ${5:objectEquality}}})\"],\n\t\t[\"$watchCollection\\tAngularJS\", \"\\\\$watchCollection(${1:obj}, function(newCollection, oldCollection, scope) {\\n\\t$2\\n});\"],\n\t\t[\"$id\\tAngularJS\", \"\\\\$id\"]\n\t],\n\t\"$rootScopeProvider\": [\n\t\t[\"digestTtl\\tAngularJS\", \"digestTtl(${1:limit})\"]\n\t],\n\t\"$sce\": [\n\t\t[\"getTrusted\\tAngularJS\", \"getTrusted(${1:type}, ${2:maybeTrusted})\"],\n\t\t[\"getTrustedCss\\tAngularJS\", \"getTrustedCss(${1:value})\"],\n\t\t[\"getTrustedHtml\\tAngularJS\", \"getTrustedHtml(${1:value})\"],\n\t\t[\"getTrustedJs\\tAngularJS\", \"getTrustedJs(${1:value})\"],\n\t\t[\"getTrustedResourceUrl\\tAngularJS\", \"getTrustedResourceUrl(${1:value})\"],\n\t\t[\"getTrustedUrl\\tAngularJS\", \"getTrustedUrl(${1:value})\"],\n\t\t[\"parse\\tAngularJS\", \"parse(${1:type}, ${2:expression})\"],\n\t\t[\"parseAsCss\\tAngularJS\", \"parseAsCss(${1:expression})\"],\n\t\t[\"parseAsHtml\\tAngularJS\", \"parseAsHtml(${1:expression})\"],\n\t\t[\"parseAsJs\\tAngularJS\", \"parseAsJs(${1:expression})\"],\n\t\t[\"parseAsResourceUrl\\tAngularJS\", \"parseAsResourceUrl(${1:expression})\"],\n\t\t[\"parseAsUrl\\tAngularJS\", \"parseAsUrl(${1:expression})\"],\n\t\t[\"trustAs\\tAngularJS\", \"trustAs(${1:type}, ${2:value})\"],\n\t\t[\"trustAsHtml\\tAngularJS\", \"trustAsHtml(${1:value})\"],\n\t\t[\"trustAsJs\\tAngularJS\", \"trustAsJs(${1:value})\"],\n\t\t[\"trustAsResourceUrl\\tAngularJS\", \"trustAsResourceUrl(${1:value})\"],\n\t\t[\"trustAsUrl\\tAngularJS\", \"trustAsUrl(${1:value})\"],\n\t\t[\"isEnabled\\tAngularJS\", \"isEnabled()\"]\n\t],\n\t\"$sceDelegate\": [\n\t\t[\"getTrusted\\tAngularJS\", \"getTrusted(${1:type}, ${2:maybeTrusted})\"],\n\t\t[\"trustAs\\tAngularJS\", \"trustAs(${1:type}, ${2:value})\"],\n\t\t[\"valueOf\\tAngularJS\", \"valueOf(${1:value})\"]\n\t],\n\t\"$sceDelegateProvider\": [\n\t\t[\"resourceUrlBlacklist\\tAngularJS\", \"resourceUrlBlacklist(${1:blacklist})\"],\n\t\t[\"resourceUrlWhitelist\\tAngularJS\", \"resourceUrlWhitelist(${1:whitelist})\"]\n\t],\n\t\"$sceProvider\": [\n\t\t[\"enabled\\tAngularJS\", \"enabled(${1:value})\"]\n\t],\n\t\"$timeout\": [\n\t\t[\"cancel\\tAngularJS\", \"cancel(${1:promise})\"],\n\t\t[\"flush\\tAngularJS (M)\", \"flush(${1:delay})\"]\n\t],\n\t\"$cookieStore\": [\n\t\t[\"get\\tAngularJS\", \"get(${1:key})\"],\n\t\t[\"put\\tAngularJS\", \"put(${1:key}, ${2:value})\"],\n\t\t[\"remove\\tAngularJS\", \"remove(${1:key})\"]\n\t],\n\t\"$route\": [\n\t\t[\"reload\\tAngularJS\", \"reload()\"],\n\t\t[\"current\\tAngularJS\", \"current\"],\n\t\t[\"routes\\tAngularJS\", \"routes\"]\n\t],\n\t\"$routeProvider\": [\n\t\t[\"otherwise\\tAngularJS\", \"otherwise(${1:params})\"],\n\t\t[\"when\\tAngularJS\", \"when(${1:path}, ${2:route})\"]\n\t],\n\t\"$swipe\": [\n\t\t[\"bind\\tAngularJS\", \"bind(${1:element})\"]\n\t],\n\t\"mock\": [\n\t\t[\"dump\\tAngularJS\", \"dump(${1:object})\"],\n\t\t[\"module\\tAngularJS\", \"module(${1:fns})\"]\n\t],\n\t\"events\": [\n\t\t[\"$locationChangeStart\\tAngularJS (E)\", \"\\\\$locationChangeStart\"],\n\t\t[\"$locationChangeSuccess\\tAngularJS (E)\", \"\\\\$locationChangeSuccess\"],\n\t\t[\"$destroy\\tAngularJS (E)\", \"\\\\$destroy\"],\n\t\t[\"$includeContentLoaded\\tAngularJS (E)\", \"\\\\$includeContentLoaded\"],\n\t\t[\"$includeContentRequested\\tAngularJS (E)\", \"\\\\$includeContentRequested\"],\n\t\t[\"$routeChangeError\\tAngularJS (E)\", \"\\\\$routeChangeError\"],\n\t\t[\"$routeChangeStart\\tAngularJS (E)\", \"\\\\$routeChangeStart\"],\n\t\t[\"$routeChangeSuccess\\tAngularJS (E)\", \"\\\\$routeChangeSuccess\"],\n\t\t[\"$routeUpdate\\tAngularJS (E)\", \"\\\\$routeUpdate\"],\n\t\t[\"$viewContentLoaded\\tAngularJS (E)\", \"\\\\$viewContentLoaded\"]\n\t],\n\t\"attrs\": [\n\t\t[\"$addClass\\tAngularJS\", \"\\\\$addClass(${1:classVal})\"],\n\t\t[\"$observe\\tAngularJS\", \"\\\\$observe(${1:key}, ${2:fn})\"],\n\t\t[\"$removeClass\\tAngularJS\", \"\\\\$removeClass(${1:classVal})\"],\n\t\t[\"$set\\tAngularJS\", \"\\\\$set(${1:name}, ${2:value})\"],\n\t\t[\"$updateClass\\tAngularJS\", \"\\\\$updateClass(newClasses, oldClasses)\"],\n\t\t[\"$attr\\tAngularJS\", \"\\\\$attr\"]\n\t]\n}\n",
-					"file": "/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
-					"file_size": -1,
-					"file_write_time": -1,
-					"settings":
-					{
-						"buffer_size": 15962,
-						"line_ending": "Windows",
-						"read_only": true,
-						"scratch": true
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"ins",
-						"Package Control: Install Package"
+						"remo",
+						"Package Control: Remove Package"
 					],
 					[
 						"ing",
@@ -1559,10 +600,6 @@
 						"File: Open In Browser - Production Server"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"istall",
 						"Package Control: Install Package"
 					],
@@ -1643,7 +680,7 @@
 						"View: Toggle Menu"
 					]
 				],
-				"width": 540.0
+				"width": 279.0
 			},
 			"console":
 			{
@@ -1670,17 +707,48 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/C/xampp/htdocs",
-				"/C/xampp/htdocs/1804",
-				"/C/xampp/htdocs/1804/0427",
-				"/C/xampp/htdocs/1804/0427/quickstart",
-				"/C/xampp/htdocs/1804/0427/quickstart/src",
-				"/C/xampp/htdocs/1804/0427/quickstart/src/app"
-			],
 			"file_history":
 			[
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/E/CODE/Angular-1712/项目安排/项目安排.txt",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/main.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/index/index.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/styles.css",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.module.ts",
+				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user/update_basic.php",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/index.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.router.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/index/index.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/utility/service/service.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/detail/detail.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/cart/cart.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/detail/detail.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.component.spec.ts",
+				"/C/xampp/htdocs/1804/0428/iview/src/components/carousel/carousel.vue",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/list/list.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/list/list.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/cart/cart.component.html",
+				"/C/xampp/htdocs/1804/0428/t3.php",
+				"/C/xampp/htdocs/1804/0428/iview/package.json",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_parent.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_parent.component.html",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_son.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo20_p_s/demo20_son.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo20_p_s/demo20_parent.compoent.ts",
+				"/C/xampp/htdocs/1804/0427/t2.html",
+				"/C/xampp/htdocs/1804/0427/t1_sort.html",
+				"/C/xampp/htdocs/1804/0427/quickstart/src/app/test/1qq.component.ts",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-js-completions.sublime-settings",
 				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
 				"/C/xampp/htdocs/welive_3.4.0_free/index.php",
 				"/C/xampp/htdocs/welive_3.4.0_free/includes/welive.Core.php",
@@ -1692,7 +760,6 @@
 				"/C/xampp/htdocs/1804/0427/cdn/cdn.html",
 				"/C/xampp/htdocs/1804/0426/quickstart-master/package.json",
 				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.ts",
-				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.ts",
 				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo17/myhttp.service.ts",
 				"/C/xampp/htdocs/c1/project/admin/data/product_list.php",
 				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.component.spec.ts",
@@ -1769,50 +836,11 @@
 				"/C/xampp/htdocs/1804/0423/v1/src/App.vue",
 				"/C/xampp/htdocs/1804/0423/v1/src/main.js",
 				"/C/xampp/htdocs/1804/0423/t1.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Hello.vue",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/productList.vue",
-				"/C/xampp/htdocs/c1/project/admin/login.html",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/assets/css/app.css",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/build/webpack.base.conf.js",
-				"/C/xampp/htdocs/1804/0418/t10_todolist.html",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoItem.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoBox.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/main.js",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoList.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/TodoInput.vue",
-				"/C/xampp/htdocs/1804/0419/t3.html",
-				"/C/xampp/htdocs/1804/0419/t7_router_children.html",
-				"/C/xampp/htdocs/1804/0420/tpls/src/router/index.js",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/Hello.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/App.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-list.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-box.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-input.vue",
-				"/C/xampp/htdocs/1804/0420/tpls/src/components/todo-box",
-				"/C/xampp/htdocs/1804/0420/tpls/package.json",
-				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Buy.vue",
-				"/C/xampp/htdocs/1804/0420/t1.html",
-				"/C/xampp/htdocs/1804/0419/t9.html",
-				"/C/xampp/htdocs/1804/0419/tpls/package.json",
-				"/C/xampp/htdocs/c1/tpls/package.json",
-				"/C/xampp/htdocs/c1/tpls/build/dev-server.js",
-				"/C/xampp/htdocs/c1/project/admin/data/init.php",
-				"/C/xampp/htdocs/1804/0419/t8.html",
-				"/C/xampp/htdocs/1804/xz_admin_vue/project/xz.sql",
-				"/C/xampp/htdocs/1804/0419/t7.html",
-				"/C/xampp/htdocs/1804/0419/t6.html",
-				"/C/xampp/htdocs/1804/0419/t5.html",
-				"/C/xampp/htdocs/1804/0419/t4_2.html",
-				"/C/xampp/htdocs/1804/0419/t2.html",
-				"/C/xampp/htdocs/1804/0419/t1.html",
-				"/C/xampp/htdocs/vuejs/vue-router.js",
-				"/C/xampp/htdocs/1804/0418/t11_router.html",
-				"/C/xampp/htdocs/1804/0418/t11.html",
-				"/C/xampp/htdocs/1804/0418/t8.html"
+				"/C/xampp/htdocs/c1/vue/day04/tpls/src/components/Hello.vue"
 			],
 			"find":
 			{
-				"height": 41.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
@@ -1840,768 +868,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "C:\\xampp\\htdocs"
-				},
-				{
-					"path": "C:\\xampp\\htdocs\\1804\\0426"
-				},
-				{
-					"path": "C:\\xampp\\htdocs\\1804\\0425"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 3,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/C/xampp/htdocs/1804/0427/quickstart/src/app/test/1qq.component.ts",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 298,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										298,
-										298
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"auto_name": "1qq",
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"extensions":
-									[
-										"ts"
-									],
-									"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
-									"typescript_plugin_format_options":
-									{
-										"convertTabsToSpaces": false,
-										"indentSize": 4,
-										"tabSize": 4
-									},
-									"use_tab_stops": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3690,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3690,
-										3690
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": 56,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												3689,
-												3690
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												0,
-												1
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1215.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8756,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										8756,
-										8756
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 5891.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-js-completions.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 15962,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										9723,
-										9723
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2080.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"sheets":
-					[
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 23.0
@@ -2610,55 +876,12 @@
 			{
 				"height": 58.0
 			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.656163680122,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
 			"menu_visible": true,
-			"output.doc":
-			{
-				"height": 0.0
-			},
-			"output.exec":
-			{
-				"height": 230.0
-			},
 			"output.find_results":
 			{
 				"height": 103.0
 			},
-			"output.mdpopups":
-			{
-				"height": 0.0
-			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,783,114,42,1342",
-			"project": "",
 			"replace":
 			{
 				"height": 42.0
@@ -2695,7 +918,1630 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 0,
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 312.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1220.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"W",
+						"WriteLine"
+					],
+					[
+						"docu",
+						"document〔variable〕"
+					],
+					[
+						"doc",
+						"document〔variable〕"
+					],
+					[
+						"data-",
+						"data-market"
+					],
+					[
+						"res",
+						"resThis〔variable〕"
+					],
+					[
+						"s_",
+						"s_html"
+					],
+					[
+						"get",
+						"getLocalStorage"
+					],
+					[
+						"typ",
+						"typeof〔keyword〕"
+					],
+					[
+						"set",
+						"setItem"
+					],
+					[
+						"setS",
+						"wx.setStorage"
+					],
+					[
+						"fon",
+						"fontSize〔variable〕"
+					],
+					[
+						"Com",
+						"Components〔variable〕"
+					],
+					[
+						"imp",
+						"import〔keyword〕"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"g",
+						"getElementsByTagName〔function〕"
+					],
+					[
+						"my",
+						"myValue"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"To",
+						"ToDoList"
+					],
+					[
+						"M",
+						"MyLogin"
+					],
+					[
+						"lo",
+						"location.href.slice(\"23"
+					],
+					[
+						"loca",
+						"location〔variable〕"
+					],
+					[
+						"Http",
+						"HttpModule\talias"
+					],
+					[
+						"sort",
+						"sortAsc2〔function〕"
+					],
+					[
+						"ng-",
+						"ng2-component\tAngular 2 Component Snippet"
+					],
+					[
+						"com",
+						"Component\talias"
+					],
+					[
+						"ng",
+						"ngModel\tAngular 2 ngModel Snippet"
+					],
+					[
+						"v",
+						"v_marketcode"
+					],
+					[
+						"fos",
+						"font-size"
+					],
+					[
+						"temp",
+						"templateUrl\tproperty"
+					],
+					[
+						"teml",
+						"templateUrl\tproperty"
+					],
+					[
+						"impor",
+						"import\timports a module …"
+					],
+					[
+						"page",
+						"pageCount"
+					],
+					[
+						"pru",
+						"product_list.html"
+					],
+					[
+						"new",
+						"newVal〔variable〕"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"pic",
+						"picUrl"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"prev",
+						"prevPage"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"Vu",
+						"VueResource"
+					],
+					[
+						"O",
+						"OrderDetail"
+					],
+					[
+						"ta",
+						"template\tTag"
+					],
+					[
+						"scr",
+						"script"
+					],
+					[
+						"T",
+						"TodoInput"
+					],
+					[
+						"con",
+						"components"
+					],
+					[
+						"trans",
+						"transition"
+					],
+					[
+						"router",
+						"router-view"
+					],
+					[
+						"per",
+						"personComp"
+					],
+					[
+						"shop",
+						"shopcartComp"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"resu",
+						"resure"
+					],
+					[
+						"suc",
+						"succesComp〔variable〕"
+					],
+					[
+						"su",
+						"success"
+					],
+					[
+						"rout",
+						"routes〔variable〕"
+					],
+					[
+						"de",
+						"detail"
+					],
+					[
+						"rou",
+						"routes〔variable〕"
+					],
+					[
+						"del",
+						"delHandle"
+					],
+					[
+						"reg",
+						"regComponent"
+					],
+					[
+						"login",
+						"loginComponent"
+					],
+					[
+						"to",
+						"todo-itme"
+					],
+					[
+						"todo",
+						"todo-itme"
+					],
+					[
+						"todo-",
+						"todo-box"
+					],
+					[
+						"not",
+						"noticeShuke"
+					],
+					[
+						"xi",
+						"xionger"
+					],
+					[
+						"my-",
+						"my-chatroom"
+					],
+					[
+						"tod",
+						"todo-item"
+					],
+					[
+						"me",
+						"methods"
+					],
+					[
+						"conn",
+						"container"
+					],
+					[
+						"cont",
+						"container"
+					],
+					[
+						"bi",
+						"bindings"
+					],
+					[
+						"le",
+						"letter-spacing"
+					],
+					[
+						"h",
+						"handleClick"
+					],
+					[
+						"is",
+						"isBool_box"
+					],
+					[
+						"parse",
+						"parseInt〔function〕"
+					],
+					[
+						"nu",
+						"num2"
+					],
+					[
+						"show",
+						"showSmall"
+					],
+					[
+						"cur",
+						"currCount2〔variable〕"
+					],
+					[
+						"console",
+						"console.log"
+					],
+					[
+						"rs",
+						"resCount2"
+					],
+					[
+						"key",
+						"keyCode"
+					],
+					[
+						"pos",
+						"pos:a\tposition:absolute"
+					],
+					[
+						"PO",
+						"pos-a\tposition: absolute;"
+					],
+					[
+						"cl",
+						"class\tAttr"
+					],
+					[
+						"spy",
+						"spy_s"
+					],
+					[
+						"l",
+						"length〔variable〕"
+					],
+					[
+						"int",
+						"integer〔keyword〕"
+					],
+					[
+						"par",
+						"parseFloat〔function〕"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"war",
+						"word-wrap"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"pa",
+						"pageCount"
+					],
+					[
+						"data",
+						"datacount"
+					],
+					[
+						"hei",
+						"hei\theight"
+					],
+					[
+						"p",
+						"phone"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"gett",
+						"gettype"
+					],
+					[
+						"code",
+						"code.php"
+					],
+					[
+						"layui-nav",
+						"layui-nav-item"
+					],
+					[
+						"nav",
+						"navbar"
+					],
+					[
+						"inde",
+						"index_i"
+					],
+					[
+						"requ",
+						"require_once〔keyword〕"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"bl",
+						"block"
+					],
+					[
+						"po",
+						"pos:r\tposition:relative"
+					],
+					[
+						"clear",
+						"clearInterval〔function〕"
+					],
+					[
+						"sli",
+						"siblings〔function〕"
+					],
+					[
+						"gl",
+						"glyphicon-asterisk"
+					],
+					[
+						"do",
+						"dropdown"
+					],
+					[
+						"hel",
+						"help-block"
+					],
+					[
+						"用户",
+						"用户名可以数字，字母"
+					],
+					[
+						"col-sm-",
+						"col-sm-5"
+					],
+					[
+						"col-",
+						"col-sm-2"
+					],
+					[
+						"form",
+						"form-control"
+					],
+					[
+						"rig",
+						"right"
+					],
+					[
+						"sh",
+						"shelf_time"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"fru",
+						"fruitType"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"json_",
+						"json_encode〔function〕"
+					],
+					[
+						"vide",
+						"video_memory"
+					],
+					[
+						"col",
+						"col-md-6"
+					],
+					[
+						"text-",
+						"text-success"
+					],
+					[
+						"img",
+						"img-thumbnail"
+					],
+					[
+						"ab_",
+						"ab_tab1"
+					],
+					[
+						"space",
+						"space-between"
+					],
+					[
+						"max",
+						"max-width:991px"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"he",
+						"height"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/xampp/htdocs/1805/0510/If.cs",
+					"settings":
+					{
+						"buffer_size": 259,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/C/xampp/htdocs/school.txt",
+					"file_size": 0,
+					"file_write_time": 131705699270844384,
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/xampp/htdocs/school.html",
+					"settings":
+					{
+						"buffer_size": 3226,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "rem",
+				"selected_items":
+				[
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"ing",
+						"Indexing Status"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"ist",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"oib",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"istall",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"viewinb",
+						"View In Browser"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"package Control:",
+						"Package Control: Remove Package"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"html",
+						"Snippet: html"
+					],
+					[
+						"sinppet",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"set syntax: ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"viewin",
+						"View In Browser"
+					],
+					[
+						"openin",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"viewinbrowser",
+						"View In Browser"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"\\",
+						"Emmet: Split\\Join Tag"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"sidebar",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"SideBar",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"Install",
+						"Package Control: Install Package"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					]
+				],
+				"width": 666.0
+			},
+			"console":
+			{
+				"height": 221.0,
+				"history":
+				[
+					"cnpm -v",
+					"dir",
+					"rename:0226-d",
+					"rename",
+					"    import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())  ",
+					"save all",
+					"saveall",
+					"save",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/xampp/htdocs/1805/0510"
+			],
+			"file_history":
+			[
+				"/C/xampp/htdocs/1805/0510/for.cs",
+				"/C/xampp/htdocs/1805/0510/Hello2.cs",
+				"/C/xampp/htdocs/1805/0510/Hello.cs",
+				"/C/xampp/htdocs/c.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/xdyplayer.js",
+				"/C/xampp/htdocs/c1.js",
+				"/E/CODE/tm/tts.tmooc.cn/css/jquery.mcustomscrollbar.min.css",
+				"/C/xampp/htdocs/1.json",
+				"/E/CODE/tm/tts.tmooc.cn/css/studyplan.css",
+				"/E/CODE/tm/tts.tmooc.cn/css/style.css",
+				"/E/CODE/tm/tts.tmooc.cn/default.html",
+				"/C/xampp/htdocs/c.json",
+				"/E/CODE/tm/no_cookie/tts.tmooc.cn/no_cookie.html",
+				"/E/CODE/tm/tts.tmooc.cn/js/ttsplayer.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/jquery-2.1.1.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/jquery-cookie.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/layer.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/main.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/ccvideo.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/checklogin.js",
+				"/E/CODE/tm/tts.tmooc.cn/js/jquery.mcustomscrollbar.concat.min.js",
+				"/C/Windows/Microsoft.NET/Framework/v4.0.30319/csc.exe.config",
+				"/E/DOWNLOAD/eXeScope_veryhuo.com/eXeScope_veryhuo.com/eXeScope.ini",
+				"/C/xampp/htdocs/AK.js",
+				"/C/xampp/htdocs/1805/0510/vip.js",
+				"/C/xampp/htdocs/hycom/js/stock2.js",
+				"/C/xampp/htdocs/hycom/html/stock2.html",
+				"/C/xampp/htdocs/index.html",
+				"/C/xampp/htdocs/1805/0509/t2.html",
+				"/C/xampp/htdocs/hycom/css/stock2.css",
+				"/C/xampp/htdocs/1805/0509/t1.html",
+				"/C/xampp/htdocs/hycom/html/forex.html",
+				"/C/xampp/htdocs/hycom/js/forex.js",
+				"/C/xampp/htdocs/hycom/js/AK.js",
+				"/C/xampp/htdocs/1805/0507/forStu/reactNative/myapp/app/component/demo01.js",
+				"/C/xampp/htdocs/1805/0507/forStu/reactNative/myapp/index.android.js",
+				"/C/xampp/htdocs/1805/0507/forStu/reactNative/myapp/__tests__/index.android.js",
+				"/C/xampp/htdocs/1805/0507/test/c1.css",
+				"/C/xampp/htdocs/1805/0507/t1.html",
+				"/C/xampp/htdocs/1805/0507/test/c1.less",
+				"/C/xampp/htdocs/1805/0504/t10_control.html",
+				"/C/xampp/htdocs/1805/0504/t10_control.js",
+				"/C/xampp/htdocs/1805/0507/test/c1.css.map",
+				"/C/xampp/htdocs/1805/0504/t10_control.jsx",
+				"/C/xampp/htdocs/1805/0504/t1.jsx",
+				"/C/xampp/htdocs/cart.html",
+				"/C/xampp/htdocs/jquery-1.11.3.js",
+				"/C/xampp/htdocs/hycom/html/rili.html",
+				"/C/xampp/htdocs/1805/0504/t11.html",
+				"/C/xampp/htdocs/1805/0504/t11.jsx",
+				"/C/xampp/htdocs/1805/0504/t10.html",
+				"/C/xampp/htdocs/1805/0504/t10.jsx",
+				"/C/xampp/htdocs/1805/0504/t5.jsx",
+				"/C/xampp/htdocs/1805/0504/t9.jsx",
+				"/C/xampp/htdocs/1804/0420/tpls/build/webpack.base.conf.js",
+				"/C/xampp/htdocs/1804/0420/tpls/build/webpack.dev.conf.js",
+				"/C/xampp/htdocs/1805/0504/t9.html",
+				"/C/xampp/htdocs/1805/0504/t8.html",
+				"/C/xampp/htdocs/1805/0504/t7.jsx",
+				"/C/xampp/htdocs/1805/0504/t7.html",
+				"/C/xampp/htdocs/1805/0504/t5.html",
+				"/C/xampp/htdocs/1805/0504/t3.html",
+				"/C/xampp/htdocs/1805/0504/t3.jsx",
+				"/C/xampp/htdocs/1805/0504/t1.html",
+				"/C/xampp/htdocs/1805/0504/t2.jsx",
+				"/C/xampp/htdocs/1805/0504/t2.html",
+				"/C/xampp/htdocs/1805/0503/t7.jsx",
+				"/C/xampp/htdocs/vue-v2.5.13.js",
+				"/C/xampp/htdocs/bootstrap-v3.3.7/dist/js/bootstrap.js",
+				"/C/xampp/htdocs/bootstrap-v2.3.2/js/bootstrap.js",
+				"/C/xampp/htdocs/1805/0503/t7.html",
+				"/C/xampp/htdocs/1805/0503/t5_comps.html",
+				"/C/xampp/htdocs/1805/0503/t5.jsx",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
+				"/C/xampp/htdocs/1805/0503/t6.jsx",
+				"/C/xampp/htdocs/1805/0503/t4.jsx",
+				"/C/xampp/htdocs/1805/0503/t4_comp.html",
+				"/C/xampp/htdocs/1805/0503/t3.jsx",
+				"/C/xampp/htdocs/1805/0503/t3.html",
+				"/C/xampp/htdocs/1805/0503/t3.js",
+				"/C/xampp/htdocs/1805/cdn/README.html",
+				"/C/xampp/htdocs/1805/0503/t2_jsx.html",
+				"/C/xampp/htdocs/1805/0503/t2.jsx",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/C/xampp/htdocs/1805/0503/t1.html",
+				"/C/xampp/htdocs/1805/0502/awesome-app/.eslintrc.js",
+				"/C/xampp/htdocs/1805/0502/awesome-app/src/components/HelloWorld.vue",
+				"/C/xampp/htdocs/1805/0502/awesome-app/src/index.vue",
+				"/C/xampp/htdocs/1805/0502/awesome-app/package.json",
+				"/C/xampp/htdocs/1805/0502/vueShop/package.json",
+				"/C/xampp/htdocs/1805/0502/t1.html",
+				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/data---/data/user/session_data.php",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+				"/C/xampp/htdocs/1805/0502/t2.html",
+				"/C/xampp/htdocs/1805/0502/t3.html",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/Default/open_in_browser.py",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+				"/C/Users/web-01/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/E/CODE/Angular-1712/项目安排/项目安排.txt",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/main.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/index/index.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/styles.css",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.module.ts",
+				"/C/xampp/htdocs/c1/vue/day04/tpls/src/data/user/update_basic.php",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/index.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.router.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/index/index.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/utility/service/service.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/detail/detail.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/cart/cart.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/detail/detail.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/app.component.spec.ts",
+				"/C/xampp/htdocs/1804/0428/iview/src/components/carousel/carousel.vue",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/list/list.component.html",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/list/list.component.ts",
+				"/C/xampp/htdocs/1804/0428/quickstart/src/app/cart/cart.component.html",
+				"/C/xampp/htdocs/1804/0428/t3.php",
+				"/C/xampp/htdocs/1804/0428/iview/package.json",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/app.module.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_parent.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_parent.component.html",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo19_p_s/demo19_son.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo20_p_s/demo20_son.component.ts",
+				"/C/xampp/htdocs/1804/0426/quickstart-master/src/app/demo20_p_s/demo20_parent.compoent.ts"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 127.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"     ",
+					"校",
+					" ",
+					"您未开通校外观看视频权限",
+					"vip",
+					"范围",
+					"baidu",
+					"s_list_div",
+					"chang",
+					"wel",
+					"red",
+					"Switch",
+					"h5",
+					"MainComponent",
+					"Son",
+					"input_comp",
+					"ToDoInput",
+					"ToDoBox",
+					"MyTest2",
+					"MyTest1",
+					"MyTest3",
+					"isArray",
+					"isAr",
+					"isAa",
+					"isA",
+					"isAr",
+					"isA",
+					"isArray",
+					"isarray",
+					"array",
+					"form",
+					"Upwd",
+					"Uname",
+					"start"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\\t\\n",
+					"s_list_item",
+					"MyComponent",
+					"Son",
+					"Parent",
+					"ToDoList",
+					"ToDoInput",
+					"ToDoBox"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\xampp\\htdocs\\1805\\0504"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\hycom"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\1805\\0507"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\1805\\0507\\forStu\\reactNative\\myapp"
+				},
+				{
+					"path": "C:\\xampp\\htdocs"
+				},
+				{
+					"path": "C:\\xampp\\htdocs\\1805\\0510"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/xampp/htdocs/1805/0510/If.cs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 259,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										259,
+										259
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/C#/C#.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/xampp/htdocs/school.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/xampp/htdocs/school.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3226,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2997,
+										2997
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2990,
+												2996
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2976,
+												2982
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"default_extension": "html",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1719.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 58.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.586811352254,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 230.0
+			},
+			"output.find_results":
+			{
+				"height": 103.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 103.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,27,0,0,160",
+			"project": "",
+			"replace":
+			{
+				"height": 73.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"BigTime.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -2703,12 +2549,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 293.0,
+			"side_bar_width": 242.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 81,
+			"window_id": 84,
 			"workspace_name": ""
 		}
 	],
@@ -2716,6 +2562,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/C/xampp/htdocs/1805/0502/t1.sublime-workspace"
 		]
 	}
 }

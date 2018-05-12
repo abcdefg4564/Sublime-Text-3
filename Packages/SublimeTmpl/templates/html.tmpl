@@ -34,6 +34,11 @@
     <div id="app">
         <p>{{msg}}</p>
     </div>
+    <script type="text/javascript">
+    if(new RegExp("C:/xampp/htdocs").test(location.href)){          
+        location.href="http://localhost"+location.href.slice("23");
+    }
+    </script>    
     <script type="text/javascript" src="/jquery-3.3.1.js"></script>
     <script type="text/javascript" src="/bootstrap-v2.3.2/js/bootstrap.js"></script>
     <script type="text/javascript" src="/jquery-ui/js/jquery-ui.js"></script>
@@ -41,7 +46,10 @@
     <script type="text/javascript" src="/vuejs/vue-v2.5.16.js"></script>
     <script type="text/javascript" src="/vuejs/vue-router.js"></script>
     <script src="https://cdn.bootcss.com/vue-resource/1.5.0/vue-resource.js"></script>
-    <script src="https://cdn.bootcss.com/angular.js/1.6.9/angular.js"></script>      
+    <script src="https://cdn.bootcss.com/angular.js/1.6.9/angular.js"></script>
+    <script src="/reactjs/react.js"></script>
+    <script src="/reactjs/react-dom.js"></script>      
+    <script src="/reactjs/browser.min.js"></script>          
     <script type="text/javascript" src="/less.js-2.5.3/dist/less.js"></script>
     <script type="text/javascript" src="/AK.js"></script>
     <script>
@@ -52,10 +60,14 @@
             }
         })
     </script>
+    <script type="text/babel" src=""></script>
     
     <script>
     showtime();
     changeBgColor();
+    if(new RegExp("C:/xampp/htdocs").test(location.href)){          
+        location.href="http://localhost"+location.href.slice("23");
+    }
     </script>
 </body>
 </html>
